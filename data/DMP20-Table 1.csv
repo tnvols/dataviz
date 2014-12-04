@@ -1,0 +1,2421 @@
+VolunteerHours,ContactType,Company,First,Last,Number of volunteers involved,VolunteerDate
+4.00,Business,BCBST,Dana,Shull,4,12/13/2013
+8.00,Business,BI-LO,Joy Conyers & Staff,,4,12/13/2013
+10.00,Business,Blue Cross Blue Shield,Plan 2 Plan Department,,10,12/18/2013
+20.00,Business,Blue Cross Blue Shield Tennessee,Shea,Phillips,10,12/11/2013
+116.00,Business,Carmax,Scott,Blackburn,29,10/12/2013
+34.00,Business,Carmax,Scott,Blackburn,17,12/12/2013
+25.00,Business,"Chambliss, Bahner & Stophel-Volunteers",,,25,12/13/2013
+10.00,Business,Chattanooga Chamber of Commerce,Meredith,Rivers,5,12/18/2013
+8.00,Business,Chattem Consumer Affairs,Gwen,Davis-Reel,4,12/19/2013
+8.00,Business,Chattem Inc.,Chattem Staff,,4,12/11/2013
+25.00,Business,Cigna Volunteers,,,5,12/20/2013
+6.00,Business,Dollywood Penguin Players,,,3,05/06/2013
+2.00,Business,Erlanger - Special Procedures,Patricia,Baker,0,02/13/2013
+16.00,Business,Family Dollar #10193,Sarah,Riggs,8,12/11/2013
+1.00,Business,First Volunteer Bank,,,2,12/17/2013
+1.00,Business,Hamilton County Health Department,,,1,02/07/2013
+0.75,Business,Hamilton County Health Department,,,1,10/08/2013
+5.00,Business,HomeServe USA,Bryan,McAnally,5,12/23/2013
+10.00,Business,James Hobby United Karate,James,Hobby,5,12/23/2013
+12.00,Business,K: A Boutique by Katherine Roberts,Katherine,Roberts,4,12/12/2013
+480.00,Business,Keller Williams Realty,,,80,05/09/2013
+4.00,Business,Miller & Martin,Jennifer,Terry,2,12/05/2013
+16.00,Business,Miller Industries,Allison,Houghton,4,10/12/2013
+8.00,Business,Miller Industries,Allison,Houghton,4,12/09/2013
+45.00,Business,Miller Industries Towing Equip,Jeff,Badgley,18,06/15/2013
+12.00,Business,New York Life,Meredith,Reno,3,04/10/2013
+235.00,Business,Playcore,Marquita,Jones,47,06/15/2013
+8.00,Business,Riverworks Marketing Group,Jackie,Errico,8,12/17/2013
+24.00,Business,"Shaw Industriies, Inc. #47",,,6,06/04/2013
+5.00,Business,Siskin Children's Institute,Kimberly,Hines,0,12/20/2013
+5.00,Business,Summit View Volunteers,,,5,01/18/2013
+6.00,Business,Summit View Volunteers,,,6,02/15/2013
+1.00,Business,Summit View Volunteers,,,1,03/15/2013
+3.00,Business,Summit View Volunteers,,,3,04/19/2013
+1.00,Business,Summit View Volunteers,,,4,05/17/2013
+4.00,Business,Summit View Volunteers,,,4,09/20/2013
+3.00,Business,Summit View Volunteers,,,3,10/18/2013
+40.00,Business,T-Mobile Customer Care Center,,,20,12/20/2013
+8.00,Business,Terra Mae Appalachian Bistro,Brie,Welch,2,12/25/2013
+6.00,Business,The Chattanoogan,The Chattanoogan Hotel Staff,,6,12/16/2013
+10.50,Business,The Haisten Group,Bill,Haisten,7,12/06/2013
+3.00,Business,TVA,ITMA Group,,3,12/19/2013
+"1,160.00",Business,TVA Volunteers,,,145,09/13/2013
+58.00,Business,TVA Volunteers,,,8,10/25/2013
+375.00,Business,TVA Volunteers,,,150,10/31/2013
+12.00,Business,TVA Volunteers,,,8,12/04/2013
+12.00,Business,TVA Volunteers,,,6,12/20/2013
+445.00,Business,Unum Volunteers,,,89,07/19/2013
+360.00,Business,Unum Volunteers,,,45,07/26/2013
+20.00,Business,Wilkins Research Services,Curtis,Shubert,5,12/23/2013
+18.00,Church,"Asbury Church, Children's Mission Group",Julie,Durling,9,03/27/2013
+4.00,Church,Calvary Baptist Volunteers,,,4,12/16/2013
+6.50,Church,Child Evangelism Fellowship,Patti,Anderson,2,02/04/2013
+2.00,Church,Child Evangelism Fellowship,Patti,Anderson,2,07/08/2013
+2.00,Church,Child Evangelism Fellowship,Patti,Anderson,2,07/09/2013
+2.00,Church,Child Evangelism Fellowship,Patti,Anderson,2,07/10/2013
+2.00,Church,Child Evangelism Fellowship,Patti,Anderson,2,07/11/2013
+2.00,Church,Child Evangelism Fellowship,Patti,Anderson,2,07/12/2013
+2.00,Church,Child Evangelism Fellowship,Patti,Anderson,2,07/15/2013
+2.00,Church,Child Evangelism Fellowship,Patti,Anderson,2,07/16/2013
+2.00,Church,Child Evangelism Fellowship,Patti,Anderson,2,07/17/2013
+2.00,Church,Child Evangelism Fellowship,Patti,Anderson,2,07/18/2013
+2.00,Church,Child Evangelism Fellowship,Patti,Anderson,2,07/19/2013
+2.00,Church,Child Evangelism Fellowship,Patti,Anderson,2,07/22/2013
+2.00,Church,Child Evangelism Fellowship,Patti,Anderson,2,07/23/2013
+2.00,Church,Child Evangelism Fellowship,Patti,Anderson,2,07/24/2013
+2.00,Church,Child Evangelism Fellowship,Patti,Anderson,2,07/25/2013
+2.00,Church,Child Evangelism Fellowship,Patti,Anderson,2,07/26/2013
+7.00,Church,Child Evangelism Fellowship,Patti,Anderson,2,09/17/2013
+66.50,Church,Church of Jesus Christ Latter Day Saints,,,38,10/16/2013
+90.00,Church,Fellowship Bible Church Youth Group,,,30,03/25/2013
+45.00,Church,Fellowship Bible Church Youth Group,,,30,03/26/2013
+5.00,Church,Fellowship Bible Church Youth Group,,,2,04/19/2013
+31.50,Church,"Greater Liberty Temple, Youth Ministry",Valery,Taylor,18,03/28/2013
+3.00,Church,Hamilton Community Church,,,3,12/20/2013
+9.00,Church,Hickory Valley Community Church,,,3,06/25/2013
+58.50,Church,McEachern Memorial United Methodist Church,,,39,06/05/2013
+20.00,Church,Memorial Baptist Tabernacle,Pastor Riggs,,20,12/17/2013
+52.50,Church,One Accord Community Church,Ray,Williams,30,06/19/2013
+25.00,Church,Parkway Baptist Temple,Kyle,Taylor,25,12/11/2013
+21.00,Church,River Oaks Church,,,12,07/03/2013
+180.00,Church,St. Luke's Episcopal Church,Isaac,Doty,90,12/17/2013
+24.00,Church,"Steubenville Baptist Church, Student Life",,,6,06/06/2013
+24.00,Church,"Steubenville Baptist Church, Student Life",,,6,06/07/2013
+24.00,Church,"Steubenville Baptist Church, Student Life",,,6,06/08/2013
+15.00,Church,The Net Church,Sarah,Spencer,5,06/20/2013
+12.00,Church,The Net Church,Sarah,Spencer,4,07/11/2013
+1.50,Church,The Net Church,Patrick,Dean,1,07/15/2013
+1.50,Church,The Net Church,Liana,Rodrigues,1,07/15/2013
+9.00,Church,The Net Church,Sarah,Spencer,3,07/25/2013
+1.50,Church,The Net Church,Abby,Meyners,1,08/15/2013
+51.00,Church,"Village Presbyterian Church, Student Life",Luke ,Crook,17,06/11/2013
+51.00,Church,"Village Presbyterian Church, Student Life",Luke ,Crook,17,06/12/2013
+51.00,Church,"Village Presbyterian Church, Student Life",Luke ,Crook,17,06/13/2013
+7.00,Church,Wildwood Church PCA,,,7,07/02/2013
+31.50,Church,Women of the Church of the Good Shepherd,,,21,06/10/2013
+40.00,Church,Women of the Church of the Good Shepherd,,,20,12/18/2013
+1.00,Church,,Breaunna,Jackson,1,01/29/2013
+1.00,Church,,Breaunna,Jackson,1,02/12/2013
+1.00,Church,,Breaunna,Jackson,1,02/19/2013
+1.00,Church,,Breaunna,Jackson,1,03/05/2013
+1.00,Church,,Breaunna,Jackson,1,03/12/2013
+1.00,Church,,Breaunna,Jackson,1,04/16/2013
+1.00,Church,,Breaunna,Jackson,1,04/23/2013
+1.00,Church,,Breaunna,Jackson,1,05/14/2013
+7.00,Foundation,Caldsted Foundation,Joanna,King,7,02/25/2013
+2.00,Individual,Chattem,Barbara J.,Jennings,1,12/23/2013
+1.00,Individual,Therapy Dog International,Howard,Tinker,1,02/26/2013
+1.00,Individual,Therapy Dog International,Howard,Tinker,1,04/09/2013
+20.00,Individual,UBS,Karen,Chapman,10,12/18/2013
+10.00,Individual,UPS,Kelly,Guthrie,5,12/22/2013
+2.50,Individual,,Kyndra,Bell,0,01/02/2013
+3.00,Individual,,Katherine,Bishop,0,01/02/2013
+4.50,Individual,,Tanika,Whatley,0,01/02/2013
+6.00,Individual,,Rachel,Hixson,0,01/02/2013
+2.75,Individual,,Sophia,Jackson,1,01/02/2013
+3.25,Individual,,Jamal,Ayes,0,01/02/2013
+5.00,Individual,,Katherine,Bishop,0,01/03/2013
+4.50,Individual,,Tanika,Whatley,0,01/03/2013
+6.00,Individual,,Rachel,Hixson,0,01/03/2013
+5.00,Individual,,Katherine,Bishop,0,01/04/2013
+4.50,Individual,,Tanika,Whatley,0,01/04/2013
+2.75,Individual,,Gillian,Tamatave,1,01/04/2013
+7.00,Individual,,Rachel,Hixson,0,01/04/2013
+3.50,Individual,,Sophia,Jackson,1,01/04/2013
+2.00,Individual,,Jamal,Ayes,0,01/04/2013
+5.00,Individual,,Portia,Goldston,0,01/04/2013
+5.00,Individual,,Katherine,Bishop,0,01/05/2013
+1.50,Individual,,Jamal,Ayes,0,01/05/2013
+5.00,Individual,,Shelia,Maupin,0,01/05/2013
+5.00,Individual,,Rachel,Hixson,0,01/06/2013
+2.00,Individual,,Jamal,Ayes,0,01/06/2013
+3.00,Individual,,Derrinique,Elliott,1,01/07/2013
+2.50,Individual,,Gillian,Tamatave,1,01/07/2013
+4.00,Individual,,Katherine,Bishop,0,01/07/2013
+3.50,Individual,,Sophia,Jackson,1,01/07/2013
+2.50,Individual,,Allissia,Sullivan,0,01/07/2013
+4.00,Individual,,Christine,Reid,0,01/07/2013
+5.00,Individual,,Kyndra,Bell,0,01/07/2013
+2.00,Individual,,Erica,Cox,0,01/07/2013
+2.00,Individual,,Rodney,Wiggins,1,01/07/2013
+4.00,Individual,,Katherine,Bishop,0,01/08/2013
+3.00,Individual,,Shakika,Boyd,0,01/08/2013
+4.50,Individual,,Elizabeth,Johnson,0,01/08/2013
+4.00,Individual,,Jessica,Lockhart,0,01/08/2013
+17.00,Individual,,Linda & Bob,Farnsworth,6,01/08/2013
+2.00,Individual,,Christine,Reid,0,01/08/2013
+5.00,Individual,,Phillip,Smith,0,01/08/2013
+2.00,Individual,,Rodney,Wiggins,1,01/08/2013
+3.00,Individual,,Katie,Bishop,1,01/09/2013
+3.00,Individual,,Katherine,Bishop,0,01/09/2013
+4.75,Individual,,Shakika,Boyd,0,01/09/2013
+3.25,Individual,,Elizabeth,Johnson,0,01/09/2013
+3.50,Individual,,Jessica,Lockhart,0,01/09/2013
+3.50,Individual,,Sophia,Jackson,1,01/09/2013
+3.00,Individual,,Christine,Reid,0,01/09/2013
+6.00,Individual,,Phillip,Smith,0,01/09/2013
+4.00,Individual,,Shelia,Maupin,0,01/09/2013
+1.50,Individual,,Jacob,Whitt,1,01/09/2013
+3.00,Individual,,Derrinique,Elliott,1,01/10/2013
+4.00,Individual,,Katherine,Bishop,0,01/10/2013
+4.25,Individual,,Shakika,Boyd,0,01/10/2013
+5.00,Individual,,Elizabeth,Johnson,0,01/10/2013
+4.50,Individual,,Jessica,Lockhart,0,01/10/2013
+6.00,Individual,,Jeanine,Turner,0,01/10/2013
+3.25,Individual,,Yushaunda,Driver,0,01/10/2013
+2.50,Individual,,Gillian,Tamatave,1,01/11/2013
+2.00,Individual,,Marnie,Wall,1,01/11/2013
+1.50,Individual,,Tashia,White,1,01/11/2013
+5.00,Individual,,Katherine,Bishop,0,01/11/2013
+4.00,Individual,,Shakika,Boyd,0,01/11/2013
+4.75,Individual,,Elizabeth,Johnson,0,01/11/2013
+2.00,Individual,,Sasha,Dunkin,0,01/11/2013
+5.00,Individual,,Portia,Goldston,0,01/11/2013
+3.00,Individual,,Jeanine,Turner,0,01/11/2013
+3.00,Individual,,Sophia,Jackson,1,01/11/2013
+2.25,Individual,,Christine,Reid,0,01/11/2013
+5.00,Individual,,Yushaunda,Driver,0,01/11/2013
+7.50,Individual,,Antionette,Townsend,0,01/12/2013
+3.00,Individual,,Derrinique,Elliott,1,01/14/2013
+2.50,Individual,,Gillian,Tamatave,1,01/14/2013
+2.00,Individual,,Marnie,Wall,1,01/14/2013
+3.00,Individual,,Antionette,Townsend,0,01/14/2013
+3.00,Individual,,Portia,Goldston,0,01/14/2013
+4.00,Individual,,Willneshia,Gay,0,01/14/2013
+4.00,Individual,,Katherine,Bishop,0,01/14/2013
+4.75,Individual,,Jeanine,Turner,0,01/14/2013
+3.00,Individual,,Tiffani,Baccus,0,01/14/2013
+3.50,Individual,,Sophia,Jackson,1,01/14/2013
+3.50,Individual,,Jessica,Lockhart,0,01/14/2013
+1.00,Individual,,Agnes,Porter,1,01/15/2013
+1.00,Individual,,Joan,Lindsey,1,01/15/2013
+5.50,Individual,,Antionette,Townsend,0,01/15/2013
+3.00,Individual,,Portia,Goldston,0,01/15/2013
+4.00,Individual,,Katherine,Bishop,0,01/15/2013
+3.00,Individual,,Christine,Reid,0,01/15/2013
+3.00,Individual,,Kyndra,Bell,0,01/15/2013
+1.75,Individual,,Hillary,Swope,1,01/15/2013
+2.00,Individual,,Rodney,Wiggins,1,01/15/2013
+2.00,Individual,,Kaia,Barter-Kloss,1,01/16/2013
+4.00,Individual,,Portia,Goldston,0,01/16/2013
+5.00,Individual,,Willneshia,Gay,0,01/16/2013
+3.00,Individual,,Katherine,Bishop,0,01/16/2013
+4.00,Individual,,Jeanine,Turner,0,01/16/2013
+3.00,Individual,,Tiffani,Baccus,0,01/16/2013
+3.50,Individual,,Sophia,Jackson,1,01/16/2013
+2.00,Individual,,Kyndra,Bell,0,01/16/2013
+2.50,Individual,,Jacob,Whitt,1,01/16/2013
+1.00,Individual,,Portia,Goldston,0,01/17/2013
+4.00,Individual,,Willneshia,Gay,0,01/17/2013
+4.00,Individual,,Katherine,Bishop,0,01/17/2013
+3.00,Individual,,Jeanine,Turner,0,01/17/2013
+2.50,Individual,,Gillian,Tamatave,1,01/18/2013
+2.00,Individual,,Marnie,Wall,1,01/18/2013
+1.50,Individual,,Tashia,White,1,01/18/2013
+3.00,Individual,,Willneshia,Gay,0,01/18/2013
+4.25,Individual,,Jeanine,Turner,0,01/18/2013
+3.50,Individual,,Sophia,Jackson,1,01/18/2013
+3.50,Individual,,Jessica,Lockhart,0,01/18/2013
+1.25,Individual,,Tanika,Whatley,0,01/19/2013
+2.00,Individual,,Kaia,Barter-Kloss,1,01/21/2013
+2.50,Individual,,Gillian,Tamatave,1,01/21/2013
+2.00,Individual,,Marnie,Wall,1,01/21/2013
+8.00,Individual,,Katherine,Bishop,0,01/21/2013
+4.50,Individual,,Agnes,Porter,1,01/22/2013
+1.00,Individual,,Joan,Lindsey,1,01/22/2013
+1.50,Individual,,Robin & Dave,McMahon,1,01/22/2013
+2.00,Individual,,Katherine,Bishop,0,01/22/2013
+3.00,Individual,,Willneshia,Gay,0,01/22/2013
+4.00,Individual,,Laura,Vidal,0,01/22/2013
+3.00,Individual,,Jamela,Wynn,0,01/22/2013
+1.00,Individual,,Jamal,Ayes,0,01/22/2013
+1.00,Individual,,Juliette,Slater,0,01/22/2013
+2.25,Individual,,Keisha,Terrell,0,01/22/2013
+2.00,Individual,,Megan ,Rowe,1,01/22/2013
+5.00,Individual,,Jeanine,Turner,0,01/23/2013
+5.00,Individual,,Willneshia,Gay,0,01/23/2013
+3.75,Individual,,Sophia,Jackson,1,01/23/2013
+2.00,Individual,,Kaia,Barter-Kloss,1,01/23/2013
+1.00,Individual,,Brianna,White,1,01/23/2013
+5.00,Individual,,Katherine,Bishop,0,01/24/2013
+5.00,Individual,,Willneshia,Gay,0,01/24/2013
+4.50,Individual,,Tanika,Whatley,0,01/24/2013
+5.00,Individual,,Crystal,Smith,0,01/24/2013
+1.75,Individual,,Jeanine,Turner,0,01/24/2013
+2.50,Individual,,Jacob,Whitt,1,01/24/2013
+3.00,Individual,,Willneshia,Gay,0,01/25/2013
+2.00,Individual,,Jamal,Ayes,0,01/25/2013
+3.00,Individual,,Juliette,Slater,0,01/25/2013
+6.50,Individual,,Katherine,Bishop,0,01/26/2013
+3.00,Individual,,Sherilyn,Duby,0,01/26/2013
+1.00,Individual,,Jamela,Wynn,0,01/27/2013
+2.00,Individual,,Kaia,Barter-Kloss,2,01/28/2013
+2.00,Individual,,Marnie,Wall,1,01/28/2013
+2.50,Individual,,Gillian,Tamatave,1,01/28/2013
+4.00,Individual,,Willneshia,Gay,0,01/29/2013
+4.00,Individual,,Laura,Vidal,0,01/29/2013
+3.00,Individual,,Jacqueline,Ramsey,0,01/29/2013
+2.00,Individual,,Jamela,Wynn,0,01/29/2013
+2.00,Individual,,Jamal,Ayes,0,01/29/2013
+0.75,Individual,,Wendy,Beker,1,01/29/2013
+1.50,Individual,,Robin & Dave,McMahon,1,01/29/2013
+2.25,Individual,,Megan ,Rowe,1,01/29/2013
+1.00,Individual,,Joan,Lindsey,1,01/29/2013
+4.50,Individual,,Spanyanna,Freemen,0,01/30/2013
+1.50,Individual,,Jetavne,Tidwell,0,01/30/2013
+2.00,Individual,,Kaia,Barter-Kloss,1,01/30/2013
+4.50,Individual,,Spanyanna,Freemen,0,01/31/2013
+4.50,Individual,,Tiffany,Spencer,0,01/31/2013
+5.00,Individual,,Willneshia,Gay,0,01/31/2013
+4.25,Individual,,Jacqueline,Ramsey,0,01/31/2013
+4.25,Individual,,Derrinique,Elliott,1,01/31/2013
+2.00,Individual,,Jacob,Whitt,1,01/31/2013
+2.75,Individual,,Jennifer,Foley,1,01/31/2013
+4.00,Individual,,Spanyanna,Freemen,0,02/01/2013
+6.00,Individual,,Tiffany,Spencer,0,02/01/2013
+4.00,Individual,,Willneshia,Gay,0,02/01/2013
+1.50,Individual,,Laura,Vidal,0,02/01/2013
+4.50,Individual,,Jacqueline,Ramsey,0,02/01/2013
+2.50,Individual,,Gillian,Tamatave,1,02/01/2013
+2.25,Individual,,Spanyanna,Freemen,0,02/02/2013
+6.00,Individual,,Tiffany,Spencer,0,02/02/2013
+4.00,Individual,,Joshunta,Holloway,0,02/02/2013
+2.75,Individual,,Laura,Vidal,0,02/02/2013
+0.50,Individual,,Tanika,Whatley,0,02/02/2013
+5.00,Individual,,Tiffany,Spencer,0,02/03/2013
+1.00,Individual,,Joshunta,Holloway,0,02/03/2013
+3.00,Individual,,Willneshia,Gay,0,02/03/2013
+2.75,Individual,,Tovonna,Covington,0,02/03/2013
+3.25,Individual,,Tovonna,Covington,0,02/04/2013
+2.00,Individual,,Spanyanna,Freemen,0,02/04/2013
+0.75,Individual,,Emmaline,Foster,0,02/04/2013
+3.00,Individual,,Derrinique,Elliott,1,02/04/2013
+2.00,Individual,,Marnie,Wall,1,02/04/2013
+2.00,Individual,,Megan ,Rowe,1,02/04/2013
+2.50,Individual,,Gillian,Tamatave,1,02/04/2013
+2.00,Individual,,Rodney,Wiggins,1,02/04/2013
+3.00,Individual,,Jacqueline,Ramsey,0,02/05/2013
+3.25,Individual,,Agnes,Porter,1,02/05/2013
+2.25,Individual,,Wendy,Beker,1,02/05/2013
+1.00,Individual,,Joan,Lindsey,1,02/05/2013
+1.50,Individual,,Rodney,Wiggins,1,02/05/2013
+3.00,Individual,,Keosha,Shackleford,0,02/06/2013
+5.00,Individual,,Tiffany,Spencer,0,02/06/2013
+4.75,Individual,,Christy,Skiles,0,02/06/2013
+3.00,Individual,,Jacqueline,Ramsey,0,02/06/2013
+0.75,Individual,,Robert,Marshall,1,02/06/2013
+3.00,Individual,,Keosha,Shackleford,0,02/07/2013
+3.00,Individual,,Tiffany,Spencer,0,02/07/2013
+4.00,Individual,,Christy,Skiles,0,02/07/2013
+3.50,Individual,,Jacqueline,Ramsey,0,02/07/2013
+2.00,Individual,,Derrinique,Elliott,1,02/07/2013
+1.50,Individual,,Kennedi,Speight,1,02/07/2013
+0.50,Individual,,Ashley ,Simmons,1,02/07/2013
+2.00,Individual,,Jacob,Whitt,1,02/07/2013
+2.75,Individual,,Jennifer,Foley,1,02/07/2013
+3.00,Individual,,Keosha,Shackleford,0,02/08/2013
+8.00,Individual,,Tiffany,Spencer,0,02/08/2013
+2.00,Individual,,Jacqueline,Ramsey,0,02/08/2013
+2.00,Individual,,Marnie,Wall,1,02/08/2013
+1.25,Individual,,Robert,Marshall,1,02/08/2013
+2.50,Individual,,Gillian,Tamatave,0,02/08/2013
+3.00,Individual,,Keosha,Shackleford,0,02/09/2013
+6.00,Individual,,Sherilyn,Duby,0,02/09/2013
+4.00,Individual,,Tiffany,Spencer,0,02/09/2013
+5.00,Individual,,Christy,Skiles,0,02/09/2013
+1.50,Individual,,Jacqueline,Ramsey,0,02/09/2013
+2.25,Individual,,Christy,Skiles,0,02/10/2013
+3.00,Individual,,Jacqueline,Ramsey,0,02/10/2013
+4.00,Individual,,Andrea,Green,0,02/11/2013
+3.25,Individual,,Jacqueline,Ramsey,0,02/11/2013
+4.00,Individual,,Crystal,Vargas Soto,0,02/11/2013
+3.00,Individual,,Derrinique,Elliott,1,02/11/2013
+2.00,Individual,,Marnie,Wall,1,02/11/2013
+2.50,Individual,,Gillian,Tamatave,0,02/11/2013
+4.50,Individual,,Kathy,Armour,0,02/12/2013
+5.00,Individual,,Jacqueline,Ramsey,0,02/12/2013
+5.00,Individual,,Lacey,Ibanez,0,02/12/2013
+3.00,Individual,,Christy,Skiles,0,02/12/2013
+2.00,Individual,,Agnes,Porter,1,02/12/2013
+2.25,Individual,,Wendy,Beker,1,02/12/2013
+1.50,Individual,,Robert,Marshall,1,02/12/2013
+1.00,Individual,,Joan,Lindsey,1,02/12/2013
+5.00,Individual,,Kathy,Armour,0,02/13/2013
+3.25,Individual,,Jacqueline,Ramsey,0,02/13/2013
+5.00,Individual,,Lacey,Ibanez,0,02/13/2013
+5.00,Individual,,Christy,Skiles,0,02/13/2013
+4.00,Individual,,Keosha,Shackleford,0,02/13/2013
+0.50,Individual,,Ashley ,Simmons,1,02/13/2013
+2.25,Individual,,Megan ,Rowe,1,02/13/2013
+4.50,Individual,,Kathy,Armour,0,02/14/2013
+6.25,Individual,,Kenya,Jackson,0,02/14/2013
+3.00,Individual,,Christy,Skiles,0,02/14/2013
+4.00,Individual,,Keosha,Shackleford,0,02/14/2013
+2.50,Individual,,Derrinique,Elliott,1,02/14/2013
+2.75,Individual,,Jennifer,Foley,1,02/14/2013
+1.00,Individual,,Robert,Marshall,1,02/14/2013
+6.25,Individual,,Kenya,Jackson,0,02/15/2013
+5.00,Individual,,Lacey,Ibanez,0,02/15/2013
+2.50,Individual,,Keosha,Shackleford,0,02/15/2013
+1.00,Individual,,Kennedi,Speight,1,02/15/2013
+3.50,Individual,,Marnie,Wall,1,02/15/2013
+2.50,Individual,,Gillian,Tamatave,0,02/15/2013
+3.50,Individual,,Kenya,Jackson,0,02/16/2013
+2.75,Individual,,Jacqueline,Ramsey,0,02/16/2013
+3.00,Individual,,Jacqueline,Ramsey,0,02/17/2013
+6.00,Individual,,Andrea,Green,0,02/18/2013
+4.00,Individual,,Jacqueline,Ramsey,0,02/18/2013
+2.00,Individual,,Jacqueline,Ramsey,0,02/18/2013
+3.75,Individual,,Christy,Skiles,0,02/18/2013
+6.00,Individual,,Kanisha,Roberts,0,02/18/2013
+2.00,Individual,,Tanika,Whatley,0,02/18/2013
+2.00,Individual,,Tanika,Whatley,0,02/18/2013
+2.00,Individual,,Rachel,Leath,3,02/18/2013
+3.25,Individual,,Derrinique,Elliott,1,02/18/2013
+3.00,Individual,,Rebecca ,Elliott,0,02/18/2013
+2.00,Individual,,Gillian,Tamatave,1,02/18/2013
+3.50,Individual,,Andrea,Green,0,02/19/2013
+3.00,Individual,,Jacqueline,Ramsey,0,02/19/2013
+4.50,Individual,,Kathy,Armour,0,02/19/2013
+3.00,Individual,,Christy,Skiles,0,02/19/2013
+5.00,Individual,,Kimyra,Ross,0,02/19/2013
+3.00,Individual,,Lacey,Ibanez,0,02/19/2013
+1.00,Individual,,Joan,Lindsey,1,02/19/2013
+7.00,Individual,,Andrea,Green,0,02/20/2013
+6.50,Individual,,Kenya,Jackson,0,02/20/2013
+3.00,Individual,,Jacqueline,Ramsey,0,02/20/2013
+4.50,Individual,,Kathy,Armour,0,02/20/2013
+4.00,Individual,,Jessica,Lockhart,0,02/20/2013
+5.00,Individual,,Kimyra,Ross,0,02/20/2013
+2.75,Individual,,Lacey,Ibanez,0,02/20/2013
+3.00,Individual,,Christy,Skiles,0,02/20/2013
+1.15,Individual,,Andrea,Green,0,02/21/2013
+3.00,Individual,,Jacqueline,Ramsey,0,02/21/2013
+3.00,Individual,,Jessica,Lockhart,0,02/21/2013
+3.50,Individual,,Kanisha,Roberts,0,02/21/2013
+4.00,Individual,,Kimyra,Ross,0,02/21/2013
+3.00,Individual,,Lacey,Ibanez,0,02/21/2013
+2.75,Individual,,Derrinique,Elliott,1,02/21/2013
+2.00,Individual,,Marnie,Wall,1,02/21/2013
+1.50,Individual,,Jacob,Whitt,1,02/21/2013
+2.75,Individual,,Jennifer,Foley,1,02/21/2013
+2.50,Individual,,Andrea,Green,0,02/22/2013
+4.50,Individual,,Kenya,Jackson,0,02/22/2013
+3.00,Individual,,Jessica,Lockhart,0,02/22/2013
+2.00,Individual,,Kanisha,Roberts,0,02/22/2013
+1.50,Individual,,Kimyra,Ross,0,02/22/2013
+4.50,Individual,,Lacey,Ibanez,0,02/22/2013
+3.00,Individual,,Rachel,Leath,1,02/22/2013
+2.00,Individual,,Marnie,Wall,1,02/22/2013
+2.50,Individual,,Jacqueline,Ramsey,0,02/23/2013
+2.50,Individual,,Jessica,Lockhart,0,02/23/2013
+3.50,Individual,,Kanisha,Roberts,0,02/23/2013
+4.00,Individual,,Tanika,Whatley,0,02/23/2013
+4.00,Individual,,Tanika,Whatley,0,02/23/2013
+2.50,Individual,,Jacqueline,Ramsey,0,02/24/2013
+3.00,Individual,,Christy,Skiles,0,02/24/2013
+4.00,Individual,,Kanisha,Roberts,0,02/24/2013
+3.00,Individual,,Shelia,Maupin,0,02/24/2013
+5.00,Individual,,Andrea,Green,0,02/25/2013
+2.00,Individual,,Jacqueline,Ramsey,0,02/25/2013
+5.00,Individual,,Kimyra,Ross,0,02/25/2013
+3.00,Individual,,Kanisha,Roberts,0,02/25/2013
+2.50,Individual,,Rachel,Leath,1,02/25/2013
+2.00,Individual,,Sherri,Blaser,1,02/25/2013
+3.00,Individual,,Derrinique,Elliott,1,02/25/2013
+1.25,Individual,,Ashley ,Simmons,1,02/25/2013
+2.00,Individual,,Marnie,Wall,1,02/25/2013
+2.50,Individual,,Gillian,Tamatave,0,02/25/2013
+1.00,Individual,,Joan,Lindsey,1,02/25/2013
+2.00,Individual,,Andrea,Green,0,02/26/2013
+3.50,Individual,,Jessica,Lockhart,0,02/26/2013
+4.00,Individual,,Carmen,Jones,0,02/26/2013
+5.00,Individual,,Kathy,Armour,0,02/26/2013
+5.00,Individual,,Lacey,Ibanez,0,02/26/2013
+5.00,Individual,,Lacey,Ibanez,0,02/26/2013
+3.00,Individual,,Christy,Skiles,0,02/26/2013
+4.00,Individual,,Kimyra,Ross,0,02/26/2013
+1.25,Individual,,Kanisha,Roberts,0,02/26/2013
+3.00,Individual,,Agnes,Porter,1,02/26/2013
+2.00,Individual,,Wendy,Beker,1,02/26/2013
+1.25,Individual,,Robin & Dave,McMahon,1,02/26/2013
+1.25,Individual,,Robert,Marshall,1,02/26/2013
+3.50,Individual,,Andrea,Green,0,02/27/2013
+3.25,Individual,,Jessica,Lockhart,0,02/27/2013
+5.00,Individual,,Kathy,Armour,0,02/27/2013
+5.00,Individual,,Lacey,Ibanez,0,02/27/2013
+2.00,Individual,,Jasmine,Williams,0,02/27/2013
+3.00,Individual,,Kimyra,Ross,0,02/27/2013
+2.00,Individual,,Kanisha,Roberts,0,02/27/2013
+5.00,Individual,,Jessica,Lockhart,0,02/28/2013
+3.00,Individual,,Carmen,Jones,0,02/28/2013
+6.75,Individual,,Kenya,Jackson,0,02/28/2013
+1.25,Individual,,Jacqueline,Ramsey,0,02/28/2013
+4.00,Individual,,Kathy,Armour,0,02/28/2013
+5.00,Individual,,Lacey,Ibanez,0,02/28/2013
+4.00,Individual,,Kimyra,Ross,0,02/28/2013
+3.00,Individual,,Derrinique,Elliott,1,02/28/2013
+3.00,Individual,,Shelia,Maupin,0,02/28/2013
+2.00,Individual,,Megan ,Rowe,1,02/28/2013
+3.00,Individual,,Jennifer,Foley,1,02/28/2013
+0.75,Individual,,Robert,Marshall,1,02/28/2013
+3.00,Individual,,Andrea,Green,0,03/01/2013
+3.00,Individual,,Jessica,Lockhart,0,03/01/2013
+6.75,Individual,,Kenya,Jackson,0,03/01/2013
+2.00,Individual,,Jacqueline,Ramsey,0,03/01/2013
+5.00,Individual,,Lacey,Ibanez,0,03/01/2013
+3.00,Individual,,Kimyra,Ross,0,03/01/2013
+3.00,Individual,,Tracy,Jones,0,03/01/2013
+3.00,Individual,,Kerrion,Armstrong,0,03/01/2013
+0.50,Individual,,Kanisha,Roberts,0,03/01/2013
+3.50,Individual,,Rachel,Leath,1,03/01/2013
+1.25,Individual,,Ashley ,Simmons,1,03/01/2013
+2.00,Individual,,Marnie,Wall,1,03/01/2013
+2.50,Individual,,Gillian,Tamatave,1,03/01/2013
+4.25,Individual,,Carmen,Jones,0,03/02/2013
+3.25,Individual,,Kenya,Jackson,0,03/02/2013
+3.25,Individual,,Jacqueline,Ramsey,0,03/02/2013
+2.00,Individual,,Kimyra,Ross,0,03/02/2013
+3.00,Individual,,Tracy,Jones,0,03/02/2013
+0.50,Individual,,Jessica,Lockhart,0,03/03/2013
+5.00,Individual,,Carmen,Jones,0,03/03/2013
+3.00,Individual,,Tracy,Jones,0,03/03/2013
+4.00,Individual,,Belinda,Bernard,1,03/04/2013
+1.50,Individual,,Lacey,Ibanez,0,03/04/2013
+1.50,Individual,,Kerrion,Armstrong,0,03/04/2013
+2.00,Individual,,Sherri,Blaser,1,03/04/2013
+4.00,Individual,,Yushaunda,Driver,0,03/04/2013
+2.00,Individual,,Marnie,Wall,1,03/04/2013
+1.25,Individual,,Robert,Marshall,1,03/04/2013
+2.50,Individual,,Gillian,Tamatave,1,03/04/2013
+4.00,Individual,,Belinda,Bernard,1,03/05/2013
+2.75,Individual,,Andrea,Green,0,03/05/2013
+5.00,Individual,,Kathy,Armour,0,03/05/2013
+5.00,Individual,,Lacey,Ibanez,0,03/05/2013
+2.00,Individual,,Sharon,Oliver,0,03/05/2013
+6.25,Individual,,Kenya,Jackson,0,03/05/2013
+4.00,Individual,,Kimyra,Ross,0,03/05/2013
+1.00,Individual,,Agnes,Porter,1,03/05/2013
+1.25,Individual,,Ashley ,Simmons,1,03/05/2013
+1.00,Individual,,Robin & Dave,McMahon,1,03/05/2013
+1.00,Individual,,Joan,Lindsey,1,03/05/2013
+4.00,Individual,,Belinda,Bernard,1,03/06/2013
+4.75,Individual,,Andrea,Green,0,03/06/2013
+5.00,Individual,,Kathy,Armour,0,03/06/2013
+5.00,Individual,,Lacey,Ibanez,0,03/06/2013
+4.00,Individual,,Sharon,Oliver,0,03/06/2013
+2.25,Individual,,Megan ,Rowe,1,03/06/2013
+1.50,Individual,,Robert,Marshall,1,03/06/2013
+4.75,Individual,,Andrea,Green,0,03/07/2013
+4.00,Individual,,Kathy,Armour,0,03/07/2013
+3.00,Individual,,Lacey,Ibanez,0,03/07/2013
+6.75,Individual,,Kenya,Jackson,0,03/07/2013
+4.25,Individual,,Kimyra,Ross,0,03/07/2013
+1.00,Individual,,Kennedi,Speight,1,03/07/2013
+0.75,Individual,,Ashley ,Simmons,1,03/07/2013
+1.50,Individual,,Andrea,Green,0,03/08/2013
+4.00,Individual,,Lacey,Ibanez,0,03/08/2013
+4.00,Individual,,Sharon,Oliver,0,03/08/2013
+4.25,Individual,,Kimyra,Ross,0,03/08/2013
+4.00,Individual,,Carmen,Jones,0,03/08/2013
+3.00,Individual,,Rachel,Leath,1,03/08/2013
+2.00,Individual,,Marnie,Wall,1,03/08/2013
+1.25,Individual,,Robert,Marshall,1,03/08/2013
+2.50,Individual,,Kimyra,Ross,0,03/09/2013
+2.75,Individual,,Carmen,Jones,0,03/09/2013
+3.50,Individual,,Tanika,Whatley,1,03/09/2013
+4.00,Individual,,Sharon,Oliver,0,03/10/2013
+3.00,Individual,,Kenya,Jackson,0,03/10/2013
+3.75,Individual,,Carmen,Jones,0,03/10/2013
+5.00,Individual,,Jonathan,Rodriguez,1,03/10/2013
+3.00,Individual,,Shelia,Maupin,0,03/10/2013
+3.00,Individual,,Rachel,Leath,1,03/11/2013
+2.00,Individual,,Sherri,Blaser,1,03/11/2013
+3.00,Individual,,Derrinique,Elliott,1,03/11/2013
+0.50,Individual,,Kennedi,Speight,1,03/11/2013
+1.25,Individual,,Ashley ,Simmons,1,03/11/2013
+2.00,Individual,,Marnie,Wall,1,03/11/2013
+2.50,Individual,,Gillian,Tamatave,1,03/11/2013
+3.00,Individual,,Willneshia,Gay,0,03/12/2013
+4.00,Individual,,Lacey,Ibanez,0,03/12/2013
+5.00,Individual,,Kathy,Armour,0,03/12/2013
+1.00,Individual,,Joan,Lindsey,1,03/12/2013
+6.00,Individual,,Willneshia,Gay,0,03/13/2013
+5.00,Individual,,Lacey,Ibanez,0,03/13/2013
+5.00,Individual,,Kathy,Armour,0,03/13/2013
+3.50,Individual,,Karson,Murray,1,03/13/2013
+6.50,Individual,,Kenya,Jackson,1,03/13/2013
+0.50,Individual,,Ashley ,Simmons,1,03/13/2013
+2.00,Individual,,Megan ,Rowe,1,03/13/2013
+2.50,Individual,,Gillian,Tamatave,1,03/13/2013
+5.00,Individual,,Lacey,Ibanez,0,03/14/2013
+1.00,Individual,,Courtney,Palmer,1,03/14/2013
+1.00,Individual,,Abigail,Sell,1,03/14/2013
+3.50,Individual,,Derrinique,Elliott,1,03/14/2013
+2.00,Individual,,Kathy,Armour,1,03/14/2013
+4.00,Individual,,Jonathan,Rodriguez,1,03/14/2013
+4.00,Individual,,Karson,Murray,1,03/14/2013
+6.75,Individual,,Kenya,Jackson,1,03/14/2013
+2.00,Individual,,Michelle,Adams,0,03/14/2013
+3.00,Individual,,Willneshia,Gay,0,03/15/2013
+2.00,Individual,,Rachel,Leath,1,03/15/2013
+6.50,Individual,,Jonathan,Rodriguez,1,03/15/2013
+6.50,Individual,,Karson,Murray,1,03/15/2013
+3.00,Individual,,Kenya,Jackson,1,03/15/2013
+1.25,Individual,,Ashley ,Simmons,1,03/15/2013
+2.00,Individual,,Marnie,Wall,1,03/15/2013
+4.50,Individual,,Carmen,Jones,0,03/16/2013
+7.25,Individual,,Karson,Murray,1,03/16/2013
+3.50,Individual,,Shelia,Maupin,0,03/16/2013
+2.25,Individual,,Dijah,Nunn,0,03/16/2013
+4.00,Individual,,Tanika,Whatley,0,03/16/2013
+5.00,Individual,,Kenya,Jackson,1,03/17/2013
+5.00,Individual,,Jonathan,Rodriguez,0,03/17/2013
+4.00,Individual,,Bethen,Guines,0,03/18/2013
+3.00,Individual,,Rachel,Leath,1,03/18/2013
+5.00,Individual,,Kimandra,Ross,1,03/18/2013
+1.00,Individual,,Courtney,Palmer,1,03/19/2013
+1.00,Individual,,Abigail,Sell,1,03/19/2013
+5.00,Individual,,Kimandra,Ross,1,03/19/2013
+3.00,Individual,,Willneshia,Gay,1,03/19/2013
+2.00,Individual,,Tiffany,Broadnax,0,03/19/2013
+4.25,Individual,,Tamara,Bowens,0,03/19/2013
+2.00,Individual,,Tanika,Whatley,0,03/19/2013
+2.25,Individual,,Wendy,Beker,1,03/19/2013
+1.25,Individual,,Ashley ,Simmons,1,03/19/2013
+1.25,Individual,,Robin & Dave,McMahon,1,03/19/2013
+5.25,Individual,,Brianna,White,1,03/20/2013
+5.00,Individual,,Kimandra,Ross,1,03/20/2013
+0.75,Individual,,Kenya,Jackson,1,03/20/2013
+6.00,Individual,,Willneshia,Gay,1,03/20/2013
+4.00,Individual,,Tiffany,Broadnax,0,03/20/2013
+5.00,Individual,,Tamara,Bowens,0,03/20/2013
+3.00,Individual,,Heather,Thurman,0,03/20/2013
+3.00,Individual,,Jazmon,Woodard,0,03/20/2013
+2.25,Individual,,Megan ,Rowe,1,03/20/2013
+0.75,Individual,,Robert,Marshall,1,03/20/2013
+2.50,Individual,,Gillian,Tamatave,1,03/20/2013
+5.25,Individual,,Brandon,Pickett,0,03/21/2013
+3.00,Individual,,Alicia,Anderson,0,03/21/2013
+5.00,Individual,,Kimandra,Ross,1,03/21/2013
+3.50,Individual,,Kenya,Jackson,1,03/21/2013
+4.25,Individual,,Tiffany,Broadnax,0,03/21/2013
+3.00,Individual,,Misty,Bowman,0,03/21/2013
+3.25,Individual,,Dijah,Nunn,0,03/21/2013
+5.00,Individual,,Tamara,Bowens,0,03/21/2013
+5.25,Individual,,Jonathan,Thacker,0,03/21/2013
+2.50,Individual,,Heather,Thurman,0,03/21/2013
+3.00,Individual,,Jazmon,Woodard,0,03/21/2013
+0.75,Individual,,Ashley ,Simmons,1,03/21/2013
+6.00,Individual,,Brandon,Pickett,0,03/22/2013
+5.00,Individual,,Kimandra,Ross,1,03/22/2013
+5.50,Individual,,Kenya,Jackson,1,03/22/2013
+1.00,Individual,,Willneshia,Gay,1,03/22/2013
+2.50,Individual,,Jennifer,Adams,0,03/22/2013
+4.00,Individual,,Misty,Bowman,0,03/22/2013
+2.75,Individual,,Dijah,Nunn,0,03/22/2013
+5.00,Individual,,Tamara,Bowens,0,03/22/2013
+6.00,Individual,,Jonathan,Thacker,0,03/22/2013
+3.00,Individual,,Heather,Thurman,0,03/22/2013
+3.00,Individual,,Jazmon,Woodard,0,03/22/2013
+4.00,Individual,,Marnie,Wall,1,03/22/2013
+1.00,Individual,,Robert,Marshall,1,03/22/2013
+2.50,Individual,,Gillian,Tamatave,1,03/22/2013
+3.50,Individual,,Ashley,Gibson,0,03/23/2013
+2.25,Individual,,Kimandra,Ross,1,03/23/2013
+2.00,Individual,,Kenya,Jackson,1,03/23/2013
+4.00,Individual,,Tanika,Whatley,0,03/23/2013
+5.00,Individual,,Karson,Murray,1,03/24/2013
+5.00,Individual,,Kenya,Jackson,0,03/24/2013
+8.00,Individual,,Ross,Faires,1,03/25/2013
+4.50,Individual,,Alicia,Anderson,0,03/25/2013
+3.00,Individual,,Rachel,Leath,1,03/25/2013
+2.25,Individual,,Derrinique,Elliott,1,03/25/2013
+4.00,Individual,,Kimandra,Ross,1,03/25/2013
+4.00,Individual,,Jennifer,Adams,0,03/25/2013
+4.00,Individual,,Misty,Bowman,0,03/25/2013
+2.50,Individual,,Sharvon,Cheaton,0,03/25/2013
+4.00,Individual,,Lekesha,Kennemore,0,03/25/2013
+4.50,Individual,,Heather,Thurman,0,03/25/2013
+0.75,Individual,,Selena,Chavez,1,03/25/2013
+4.00,Individual,,Rebecca ,Elliott,0,03/25/2013
+2.00,Individual,,Marnie,Wall,1,03/25/2013
+5.75,Individual,,Rosalia ,Bowman,1,03/25/2013
+2.50,Individual,,Gillian,Tamatave,1,03/25/2013
+8.00,Individual,,Ross,Faires,1,03/26/2013
+5.00,Individual,,Alicia,Anderson,0,03/26/2013
+5.00,Individual,,Kimandra,Ross,1,03/26/2013
+3.00,Individual,,Jennifer,Adams,0,03/26/2013
+3.50,Individual,,Misty,Bowman,0,03/26/2013
+3.00,Individual,,Keosha,Byrd,0,03/26/2013
+3.50,Individual,,Sharvon,Cheaton,0,03/26/2013
+3.00,Individual,,Christine,Reid,0,03/26/2013
+5.00,Individual,,Heather,Thurman,0,03/26/2013
+6.50,Individual,,Rosalia ,Bowman,1,03/26/2013
+8.00,Individual,,Ross,Faires,1,03/27/2013
+4.50,Individual,,Jennifer,Adams,0,03/27/2013
+4.50,Individual,,Misty,Bowman,0,03/27/2013
+6.00,Individual,,Kenya,Jackson,0,03/27/2013
+4.00,Individual,,Lekesha,Kennemore,0,03/27/2013
+4.00,Individual,,Tamara,Bowens,0,03/27/2013
+5.00,Individual,,Heather,Thurman,0,03/27/2013
+2.00,Individual,,Tanika,Whatley,0,03/27/2013
+6.25,Individual,,Rosalia ,Bowman,1,03/27/2013
+8.00,Individual,,Ross,Faires,1,03/28/2013
+1.00,Individual,,Courtney,Palmer,1,03/28/2013
+1.00,Individual,,Abigail,Sell,1,03/28/2013
+4.00,Individual,,Jennifer,Adams,0,03/28/2013
+4.00,Individual,,Misty,Bowman,0,03/28/2013
+1.75,Individual,,Sharvon,Cheaton,0,03/28/2013
+4.75,Individual,,Kenya,Jackson,0,03/28/2013
+4.00,Individual,,Lekesha,Kennemore,0,03/28/2013
+5.00,Individual,,Tamara,Bowens,0,03/28/2013
+3.00,Individual,,Heather,Thurman,0,03/28/2013
+2.00,Individual,,Megan ,Rowe,1,03/28/2013
+3.00,Individual,,Jennifer,Foley,1,03/28/2013
+6.75,Individual,,Rosalia ,Bowman,1,03/28/2013
+8.00,Individual,,Ross,Faires,1,03/29/2013
+3.00,Individual,,Rachel,Leath,1,03/29/2013
+5.00,Individual,,Kimandra,Ross,1,03/29/2013
+4.00,Individual,,Jennifer,Adams,0,03/29/2013
+4.00,Individual,,Misty,Bowman,0,03/29/2013
+4.00,Individual,,Sharvon,Cheaton,0,03/29/2013
+3.00,Individual,,Annisha,Fleetwood,0,03/29/2013
+1.25,Individual,,Kenya,Jackson,0,03/29/2013
+3.50,Individual,,Shelia,Maupin,0,03/29/2013
+3.00,Individual,,Tamara,Bowens,0,03/29/2013
+2.00,Individual,,Heather,Thurman,0,03/29/2013
+6.00,Individual,,Rosalia ,Bowman,1,03/29/2013
+2.50,Individual,,Gillian,Tamatave,1,03/29/2013
+1.00,Individual,,Ashley,Austin,0,03/30/2013
+3.00,Individual,,Sherilyn,Duby,0,03/30/2013
+4.75,Individual,,Karson,Murray,0,03/30/2013
+3.00,Individual,,Rachel,Leath,1,04/01/2013
+2.50,Individual,,Derrinique,Elliott,1,04/01/2013
+2.00,Individual,,Jennifer,Adams,0,04/01/2013
+3.00,Individual,,Kimyra,Ross,0,04/01/2013
+4.50,Individual,,Marnie,Wall,1,04/01/2013
+2.75,Individual,,Gillian,Tamatave,1,04/01/2013
+3.50,Individual,,Jennifer,Adams,0,04/02/2013
+1.50,Individual,,Kimyra,Ross,0,04/02/2013
+4.00,Individual,,Gacara,Brown,0,04/02/2013
+3.50,Individual,,Kimandra,Ross,0,04/02/2013
+1.25,Individual,,Ashley ,Simmons,1,04/02/2013
+2.00,Individual,,Megan ,Rowe,1,04/02/2013
+3.00,Individual,,Jennifer,Foley,1,04/02/2013
+1.00,Individual,,Joan,Lindsey,1,04/02/2013
+3.00,Individual,,Jennifer,Adams,0,04/03/2013
+1.50,Individual,,Shakese,Carter,0,04/03/2013
+4.00,Individual,,Taylor,Roark,0,04/03/2013
+0.75,Individual,,Robert,Marshall,1,04/03/2013
+1.00,Individual,,Courtney,Palmer,1,04/04/2013
+1.00,Individual,,Abigail,Sell,1,04/04/2013
+3.00,Individual,,Derrinique,Elliott,1,04/04/2013
+3.25,Individual,,Sharvon,Cheaton,0,04/04/2013
+4.00,Individual,,Stacie,Clifton,0,04/04/2013
+6.00,Individual,,Kenya,Jackson,0,04/04/2013
+1.25,Individual,,Zinnetta,Reeves,0,04/04/2013
+4.00,Individual,,Taylor,Roark,0,04/04/2013
+6.00,Individual,,Britanie,Rogers,0,04/04/2013
+0.75,Individual,,Ashley ,Simmons,1,04/04/2013
+3.00,Individual,,Rachel,Leath,1,04/05/2013
+4.00,Individual,,Sharvon,Cheaton,0,04/05/2013
+4.00,Individual,,Annisha,Fleetwood,0,04/05/2013
+7.00,Individual,,Kenya,Jackson,0,04/05/2013
+4.00,Individual,,Taylor,Roark,0,04/05/2013
+3.50,Individual,,Britanie,Rogers,0,04/05/2013
+2.00,Individual,,Agnes,Porter,1,04/05/2013
+2.50,Individual,,Kimandra,Ross,0,04/05/2013
+2.00,Individual,,Marnie,Wall,1,04/05/2013
+1.00,Individual,,Robert,Marshall,1,04/05/2013
+2.75,Individual,,Gillian,Tamatave,1,04/05/2013
+6.00,Individual,,Britanie,Rogers,0,04/06/2013
+6.00,Individual,,Kimandra,Ross,0,04/06/2013
+4.00,Individual,,Gacara,Brown,0,04/07/2013
+4.00,Individual,,Kimandra,Ross,0,04/07/2013
+1.50,Individual,,Derrinique,Elliott,1,04/08/2013
+8.00,Individual,,Tamara,Bowens,0,04/08/2013
+4.50,Individual,,Britanie,Rogers,0,04/08/2013
+1.25,Individual,,Ashley ,Simmons,1,04/08/2013
+2.50,Individual,,Gillian,Tamatave,1,04/08/2013
+3.00,Individual,,Kenya,Jackson,0,04/09/2013
+7.00,Individual,,Kristi,Rollins,0,04/09/2013
+3.00,Individual,,Kimyra,Ross,0,04/09/2013
+3.00,Individual,,Kimandra,Ross,0,04/09/2013
+1.00,Individual,,Robert,Marshall,1,04/09/2013
+1.00,Individual,,Joan,Lindsey,1,04/09/2013
+8.00,Individual,,Kristi,Rollins,0,04/10/2013
+1.25,Individual,,Ashley ,Simmons,1,04/10/2013
+1.00,Individual,,Courtney,Palmer,1,04/11/2013
+1.00,Individual,,Abigail,Sell,1,04/11/2013
+0.90,Individual,,Amanda & Aon,Miller,18,04/11/2013
+2.50,Individual,,Derrinique,Elliott,1,04/11/2013
+6.50,Individual,,Kristi,Rollins,0,04/11/2013
+5.00,Individual,,Gacara,Brown,0,04/11/2013
+6.00,Individual,,Anthony,Cooper,0,04/11/2013
+1.00,Individual,,Kimandra,Ross,0,04/11/2013
+6.25,Individual,,Kenya,Jackson,0,04/11/2013
+2.50,Individual,,Jennifer,Foley,1,04/11/2013
+0.75,Individual,,Robert,Marshall,1,04/11/2013
+3.00,Individual,,Rachel,Leath,1,04/12/2013
+4.75,Individual,,Kimyra,Ross,0,04/12/2013
+3.50,Individual,,Gacara,Brown,0,04/12/2013
+6.00,Individual,,Anthony,Cooper,0,04/12/2013
+5.75,Individual,,Kimandra,Ross,0,04/12/2013
+6.25,Individual,,Kenya,Jackson,0,04/12/2013
+1.25,Individual,,Ashley ,Simmons,1,04/12/2013
+2.00,Individual,,Marnie,Wall,1,04/12/2013
+2.50,Individual,,Gillian,Tamatave,1,04/12/2013
+3.25,Individual,,Britanie,Rogers,0,04/13/2013
+3.00,Individual,,Kimyra,Ross,0,04/13/2013
+4.00,Individual,,Yushaunda,Driver,0,04/13/2013
+2.00,Individual,,Kimandra,Ross,0,04/13/2013
+3.00,Individual,,Kenya,Jackson,0,04/14/2013
+3.00,Individual,,Derrinique,Elliott,1,04/15/2013
+4.00,Individual,,Britanie,Rogers,0,04/15/2013
+2.00,Individual,,Kimyra,Ross,0,04/15/2013
+2.00,Individual,,Yushaunda,Driver,0,04/15/2013
+2.00,Individual,,Marnie,Wall,1,04/15/2013
+0.75,Individual,,Robert,Marshall,1,04/15/2013
+2.50,Individual,,Gillian,Tamatave,1,04/15/2013
+1.00,Individual,,Courtney,Palmer,1,04/16/2013
+2.25,Individual,,Kimyra,Ross,0,04/16/2013
+3.00,Individual,,Rebecca ,Elliott,0,04/16/2013
+1.50,Individual,,Ashley ,Simmons,1,04/16/2013
+1.00,Individual,,Joan,Lindsey,1,04/16/2013
+4.75,Individual,,Kimyra,Ross,0,04/17/2013
+3.75,Individual,,Antoniece,Padgett,0,04/17/2013
+6.00,Individual,,Kenya,Jackson,0,04/17/2013
+2.50,Individual,,Jacob,Whitt,1,04/17/2013
+2.50,Individual,,Jennifer,Foley,1,04/17/2013
+1.50,Individual,,Derrinique,Elliott,1,04/18/2013
+5.50,Individual,,Kimyra,Ross,0,04/18/2013
+3.00,Individual,,Antoniece,Padgett,0,04/18/2013
+3.00,Individual,,Kimandra,Ross,0,04/18/2013
+6.00,Individual,,Kenya,Jackson,0,04/18/2013
+3.00,Individual,,LaSonya,Appleberry,0,04/18/2013
+4.50,Individual,,Anthony,Triggs,0,04/18/2013
+0.75,Individual,,Ashley ,Simmons,1,04/18/2013
+1.75,Individual,,Megan ,Rowe,1,04/18/2013
+2.50,Individual,,Jacob,Whitt,1,04/18/2013
+2.50,Individual,,Gillian,Tamatave,1,04/18/2013
+5.00,Individual,,Kimyra,Ross,0,04/19/2013
+1.75,Individual,,Erika,Espy,0,04/19/2013
+2.25,Individual,,Tahg' Ana,Armstrong,0,04/19/2013
+2.25,Individual,,Antoniece,Padgett,0,04/19/2013
+4.00,Individual,,Kenya,Jackson,0,04/19/2013
+7.00,Individual,,Anthony,Triggs,0,04/19/2013
+2.00,Individual,,Marnie,Wall,1,04/19/2013
+1.00,Individual,,Robert,Marshall,1,04/19/2013
+4.00,Individual,,Yushaunda,Driver,0,04/20/2013
+5.50,Individual,,Anthony,Triggs,0,04/20/2013
+2.00,Individual,,Keith,Killackey,0,04/21/2013
+2.50,Individual,,Anthony,Triggs,0,04/21/2013
+3.00,Individual,,Derrinique,Elliott,1,04/22/2013
+3.00,Individual,,Evette,Hicks,0,04/22/2013
+4.00,Individual,,Kimyra,Ross,0,04/22/2013
+4.00,Individual,,Kimandra,Ross,0,04/22/2013
+2.50,Individual,,Anthony,Triggs,0,04/22/2013
+1.50,Individual,,Ashley ,Simmons,1,04/22/2013
+1.00,Individual,,Robert,Marshall,1,04/22/2013
+3.00,Individual,,Ayanna,Adams,0,04/23/2013
+5.50,Individual,,Evette,Hicks,0,04/23/2013
+3.00,Individual,,Kimyra,Ross,0,04/23/2013
+2.25,Individual,,Tahg' Ana,Armstrong,0,04/23/2013
+1.50,Individual,,Bradley,Gordon,0,04/23/2013
+3.25,Individual,,Ashley,Harris,0,04/23/2013
+1.50,Individual,,Anthony,Triggs,0,04/23/2013
+1.00,Individual,,Joan,Lindsey,1,04/23/2013
+4.00,Individual,,Evette,Hicks,0,04/24/2013
+4.50,Individual,,Kimyra,Ross,0,04/24/2013
+5.00,Individual,,Keith,Killackey,0,04/24/2013
+3.50,Individual,,Ashley,Harris,0,04/24/2013
+3.25,Individual,,Ayanna,Adams,0,04/24/2013
+6.00,Individual,,Kenya,Jackson,0,04/24/2013
+2.00,Individual,,Anthony,Triggs,0,04/24/2013
+1.25,Individual,,Ashley ,Simmons,1,04/24/2013
+3.00,Individual,,Derrinique,Elliott,1,04/25/2013
+2.75,Individual,,Ayanna,Adams,0,04/25/2013
+5.00,Individual,,Evette,Hicks,0,04/25/2013
+3.00,Individual,,Christine,Reid,0,04/25/2013
+3.50,Individual,,Kimyra,Ross,0,04/25/2013
+5.00,Individual,,Ashley,Harris,0,04/25/2013
+2.00,Individual,,Kimandra,Ross,0,04/25/2013
+6.00,Individual,,Kenya,Jackson,0,04/25/2013
+2.00,Individual,,LaSonya,Appleberry,0,04/25/2013
+3.50,Individual,,Chelsea,Williams,0,04/25/2013
+3.75,Individual,,Shari,Albey,0,04/25/2013
+2.00,Individual,,Marnie,Wall,1,04/25/2013
+2.00,Individual,,Jacob,Whitt,1,04/25/2013
+3.00,Individual,,Jennifer,Foley,1,04/25/2013
+1.50,Individual,,Robert,Marshall,1,04/25/2013
+2.50,Individual,,Ayanna,Adams,0,04/26/2013
+5.00,Individual,,Cynthia,Davis,0,04/26/2013
+6.00,Individual,,Evette,Hicks,0,04/26/2013
+3.25,Individual,,Christine,Reid,0,04/26/2013
+3.50,Individual,,Kimyra,Ross,0,04/26/2013
+5.00,Individual,,Cynthia,Davis,0,04/26/2013
+1.50,Individual,,Tahg' Ana,Armstrong,0,04/26/2013
+5.50,Individual,,Cosha,Young,0,04/26/2013
+5.00,Individual,,Ashley,Harris,0,04/26/2013
+4.50,Individual,,Kimandra,Ross,0,04/26/2013
+4.00,Individual,,Kenya,Jackson,0,04/26/2013
+4.00,Individual,,Shari,Albey,0,04/26/2013
+3.00,Individual,,LaSonya,Appleberry,0,04/26/2013
+2.00,Individual,,LaSonya,Appleberry,0,04/26/2013
+2.00,Individual,,Marnie,Wall,1,04/26/2013
+3.50,Individual,,Jacob,Whitt,1,04/26/2013
+3.50,Individual,,Kimyra,Ross,0,04/27/2013
+1.00,Individual,,Tahg' Ana,Armstrong,0,04/27/2013
+2.25,Individual,,Ayanna,Adams,0,04/27/2013
+2.25,Individual,,Kimandra,Ross,0,04/27/2013
+4.50,Individual,,Chelsea,Williams,0,04/27/2013
+4.00,Individual,,Shari,Albey,0,04/27/2013
+3.75,Individual,,Ashley,Harris,0,04/28/2013
+3.00,Individual,,Derrinique,Elliott,1,04/29/2013
+6.75,Individual,,Christine,Reid,0,04/29/2013
+1.00,Individual,,Jasmine,Williams,0,04/29/2013
+2.15,Individual,,Ayanna,Adams,0,04/29/2013
+2.00,Individual,,Evette,Hicks,0,04/29/2013
+4.25,Individual,,Heather,Dill,0,04/29/2013
+22.50,Individual,,Ayanna,Adams,0,04/29/2013
+1.50,Individual,,Ashley ,Simmons,1,04/29/2013
+2.50,Individual,,Gillian,Tamatave,1,04/29/2013
+4.00,Individual,,Heather,Dill,0,04/30/2013
+4.50,Individual,,Christine,Reid,0,04/30/2013
+6.00,Individual,,Gina,Reed,0,04/30/2013
+7.00,Individual,,Bradley,Gordon,0,04/30/2013
+1.50,Individual,,Ayanna,Adams,0,04/30/2013
+3.00,Individual,,Kimandra,Ross,0,04/30/2013
+6.00,Individual,,Kenya,Jackson,0,04/30/2013
+3.75,Individual,,LaSonya,Appleberry,0,04/30/2013
+2.25,Individual,,Chelsea,Williams,0,04/30/2013
+1.00,Individual,,Joan,Lindsey,1,04/30/2013
+4.00,Individual,,Heather,Dill,0,05/01/2013
+6.25,Individual,,Kenya,Jackson,0,05/01/2013
+3.75,Individual,,Evette,Hicks,0,05/01/2013
+2.00,Individual,,Tiana,Cole,0,05/01/2013
+4.50,Individual,,Daquisha,Allen,0,05/01/2013
+2.00,Individual,,Kimandra,Ross,0,05/01/2013
+4.00,Individual,,Shari,Albey,0,05/01/2013
+0.75,Individual,,Ashley ,Simmons,1,05/01/2013
+3.00,Individual,,Derrinique,Elliott,1,05/02/2013
+4.00,Individual,,Heather,Dill,0,05/02/2013
+2.00,Individual,,Christine,Reid,0,05/02/2013
+6.00,Individual,,Christine,Reid,0,05/02/2013
+3.00,Individual,,Gwendolyn,Calloway,0,05/02/2013
+3.75,Individual,,Kenya,Jackson,0,05/02/2013
+2.00,Individual,,Tiana,Cole,0,05/02/2013
+1.50,Individual,,LaSonya,Appleberry,0,05/02/2013
+6.00,Individual,,Daquisha,Allen,0,05/02/2013
+5.00,Individual,,Kimandra,Ross,0,05/02/2013
+3.00,Individual,,Shari,Albey,0,05/02/2013
+3.00,Individual,,Jacob,Whitt,1,05/02/2013
+3.00,Individual,,Jennifer,Foley,1,05/02/2013
+1.50,Individual,,Robert,Marshall,1,05/02/2013
+5.00,Individual,,Heather,Dill,0,05/03/2013
+6.00,Individual,,Gina,Reed,0,05/03/2013
+3.75,Individual,,Evette,Hicks,0,05/03/2013
+2.00,Individual,,Kimandra,Ross,0,05/03/2013
+4.00,Individual,,Shari,Albey,0,05/03/2013
+2.50,Individual,,Gillian,Tamatave,1,05/03/2013
+7.75,Individual,,Christine,Reid,0,05/04/2013
+8.00,Individual,,Gwendolyn,Calloway,0,05/04/2013
+4.00,Individual,,Shari,Albey,0,05/04/2013
+3.00,Individual,,Derrinique,Elliott,1,05/06/2013
+4.00,Individual,,Misty,Bowman,0,05/06/2013
+5.00,Individual,,Evette,Hicks,0,05/06/2013
+6.00,Individual,,Daquisha,Allen,0,05/06/2013
+5.50,Individual,,Kimandra,Ross,0,05/06/2013
+12.00,Individual,,Misty,Bowman,0,05/06/2013
+1.25,Individual,,Ashley ,Simmons,1,05/06/2013
+2.50,Individual,,Gillian,Tamatave,1,05/06/2013
+4.00,Individual,,Misty,Bowman,0,05/07/2013
+6.00,Individual,,Evette,Hicks,0,05/07/2013
+3.00,Individual,,Latonya,Moore,0,05/07/2013
+5.00,Individual,,LaShawnder,Woods,0,05/07/2013
+5.00,Individual,,Kimandra,Ross,0,05/07/2013
+2.25,Individual,,Jacob,Whitt,1,05/07/2013
+1.00,Individual,,Joan,Lindsey,1,05/07/2013
+3.00,Individual,,Gwendolyn,Calloway,0,05/08/2013
+6.00,Individual,,Kenya,Jackson,0,05/08/2013
+3.00,Individual,,Evette,Hicks,0,05/08/2013
+5.00,Individual,,LaShawnder,Woods,0,05/08/2013
+5.00,Individual,,Chelsea,Williams,0,05/08/2013
+3.25,Individual,,Kimandra,Ross,0,05/08/2013
+4.00,Individual,,Shari,Albey,0,05/08/2013
+4.00,Individual,,Ebony,Gladden,0,05/08/2013
+1.00,Individual,,Ashley ,Simmons,1,05/08/2013
+4.00,Individual,,Sherilyn,Duby,0,05/09/2013
+5.00,Individual,,Meagan,Thien,0,05/09/2013
+4.00,Individual,,LaKenya,Whitehead,0,05/09/2013
+4.50,Individual,,Kenya,Jackson,0,05/09/2013
+4.00,Individual,,Misty,Bowman,0,05/09/2013
+4.50,Individual,,Evette,Hicks,0,05/09/2013
+4.75,Individual,,LaShawnder,Woods,0,05/09/2013
+4.50,Individual,,Chelsea,Williams,0,05/09/2013
+3.25,Individual,,Kimandra,Ross,0,05/09/2013
+4.00,Individual,,Shari,Albey,0,05/09/2013
+2.25,Individual,,Jacob,Whitt,1,05/09/2013
+3.00,Individual,,Derrinique,Elliott,1,05/09/2013
+1.50,Individual,,LaKenya,Whitehead,0,05/10/2013
+6.00,Individual,,Christine,Reid,0,05/10/2013
+4.25,Individual,,Evette,Hicks,0,05/10/2013
+5.00,Individual,,Tandra,Wordlaw,0,05/10/2013
+2.50,Individual,,Chelsea,Williams,0,05/10/2013
+2.50,Individual,,Kimandra,Ross,0,05/10/2013
+0.00,Individual,,Anthony,Triggs,0,05/10/2013
+4.50,Individual,,Christy,Hurd,0,05/10/2013
+3.50,Individual,,Ebony,Gladden,0,05/10/2013
+1.50,Individual,,Ashley ,Simmons,1,05/10/2013
+2.00,Individual,,Megan ,Rowe,1,05/10/2013
+2.50,Individual,,Gillian,Tamatave,1,05/10/2013
+4.50,Individual,,Gwendolyn,Calloway,0,05/11/2013
+2.75,Individual,,Kenya,Jackson,0,05/11/2013
+1.00,Individual,,Angela,Horne,0,05/11/2013
+2.00,Individual,,Gwendolyn,Calloway,0,05/12/2013
+2.75,Individual,,Kenya,Jackson,0,05/12/2013
+3.15,Individual,,LaKenya,Whitehead,0,05/13/2013
+2.50,Individual,,Christine,Reid,0,05/13/2013
+2.00,Individual,,Jennifer,Adams,0,05/13/2013
+3.00,Individual,,Cornelia,Pollard,0,05/13/2013
+4.00,Individual,,Misty,Bowman,0,05/13/2013
+3.00,Individual,,Chelsea,Williams,0,05/13/2013
+2.00,Individual,,Anthony,Triggs,0,05/13/2013
+4.00,Individual,,Christy,Hurd,0,05/13/2013
+15.00,Individual,,Gwendolyn,Calloway,0,05/13/2013
+2.50,Individual,,Gillian,Tamatave,1,05/13/2013
+3.00,Individual,,Derrinique,Elliott,1,05/13/2013
+2.00,Individual,,Jennifer,Combs,1,05/14/2013
+3.00,Individual,,LaKenya,Whitehead,0,05/14/2013
+3.25,Individual,,April,Gladden,0,05/14/2013
+1.50,Individual,,Shamika,Ryals,0,05/14/2013
+3.00,Individual,,Niki,Gore,0,05/14/2013
+4.50,Individual,,Kimandra,Ross,0,05/14/2013
+3.00,Individual,,Kiyanna,Satterfield,0,05/14/2013
+4.15,Individual,,Christy,Hurd,0,05/14/2013
+1.00,Individual,,Jennifer,Adams,0,05/14/2013
+4.00,Individual,,Ebony,Gladden,0,05/14/2013
+1.00,Individual,,Joan,Lindsey,1,05/14/2013
+1.00,Individual,,LaKenya,Whitehead,0,05/15/2013
+1.00,Individual,,April,Gladden,0,05/15/2013
+4.00,Individual,,Shamika,Ryals,0,05/15/2013
+4.25,Individual,,Latonya,Moore,0,05/15/2013
+1.00,Individual,,Tanisha,Carter,0,05/15/2013
+2.00,Individual,,Chelsea,Williams,0,05/15/2013
+2.00,Individual,,Kimandra,Ross,0,05/15/2013
+3.25,Individual,,Kiyanna,Satterfield,0,05/15/2013
+4.00,Individual,,Ebony,Gladden,0,05/15/2013
+1.25,Individual,,Megan ,Rowe,1,05/15/2013
+2.50,Individual,,Gillian,Tamatave,1,05/15/2013
+2.25,Individual,,Jennifer,Combs,1,05/16/2013
+1.00,Individual,,LaKenya,Whitehead,0,05/16/2013
+2.00,Individual,,Jennifer,Adams,0,05/16/2013
+2.50,Individual,,Shamika,Ryals,0,05/16/2013
+4.00,Individual,,Chelsea,Williams,0,05/16/2013
+2.00,Individual,,Shari,Albey,0,05/16/2013
+2.00,Individual,,Kiyanna,Satterfield,0,05/16/2013
+4.50,Individual,,Christy,Hurd,0,05/16/2013
+6.00,Individual,,April,Gladden,0,05/16/2013
+2.75,Individual,,Jennifer,Foley,1,05/16/2013
+3.00,Individual,,Derrinique,Elliott,1,05/16/2013
+1.00,Individual,,April,Gladden,0,05/17/2013
+2.00,Individual,,Shamika,Ryals,0,05/17/2013
+5.00,Individual,,Kimandra,Ross,0,05/17/2013
+5.00,Individual,,Kiyanna,Satterfield,0,05/17/2013
+4.00,Individual,,Ebony,Gladden,0,05/17/2013
+7.00,Individual,,Kenya,Jackson,0,05/18/2013
+6.00,Individual,,Shamika,Ryals,0,05/18/2013
+6.50,Individual,,Shari,Albey,0,05/18/2013
+4.50,Individual,,Christy,Hurd,0,05/18/2013
+2.00,Individual,,Kenya,Jackson,0,05/19/2013
+5.00,Individual,,Shari,Albey,0,05/19/2013
+0.50,Individual,,Kiyanna,Satterfield,0,05/19/2013
+3.75,Individual,,Chelsea,Williams,0,05/20/2013
+3.25,Individual,,Kimandra,Ross,0,05/20/2013
+4.50,Individual,,Christy,Hurd,0,05/20/2013
+11.00,Individual,,Chelsea,Williams,0,05/20/2013
+12.00,Individual,,Chelsea,Williams,0,05/20/2013
+8.00,Individual,,Rebecca ,Elliott,0,05/20/2013
+2.50,Individual,,Gillian,Tamatave,1,05/20/2013
+2.75,Individual,,Derrinique,Elliott,1,05/20/2013
+1.00,Individual,,Kimandra,Ross,0,05/21/2013
+1.00,Individual,,Anthony,Triggs,0,05/21/2013
+0.25,Individual,,Christy,Hurd,0,05/21/2013
+2.00,Individual,,Taylor,Roark,0,05/21/2013
+0.25,Individual,,Ebony,Gladden,0,05/21/2013
+17.50,Individual,,Kimyra,Ross,0,05/21/2013
+2.00,Individual,,Megan ,Rowe,1,05/21/2013
+2.50,Individual,,Jennifer,Adams,0,05/22/2013
+5.00,Individual,,Britanie,Rogers,0,05/22/2013
+0.50,Individual,,Chelsea,Williams,0,05/22/2013
+4.00,Individual,,Lanique,Geer,0,05/22/2013
+3.00,Individual,,Taylor,Roark,0,05/22/2013
+3.50,Individual,,Ebony,Gladden,0,05/22/2013
+2.25,Individual,,Chelsea,Williams,0,05/22/2013
+5.00,Individual,,Chelsea,Williams,0,05/22/2013
+9.00,Individual,,Chelsea,Williams,0,05/22/2013
+3.00,Individual,,Jennifer,Adams,0,05/23/2013
+6.00,Individual,,Kenya,Jackson,0,05/23/2013
+4.00,Individual,,Kimandra,Ross,0,05/23/2013
+3.00,Individual,,Shari,Albey,0,05/23/2013
+4.00,Individual,,Kiyanna,Satterfield,0,05/23/2013
+4.00,Individual,,Lanique,Geer,0,05/23/2013
+1.00,Individual,,Taylor,Roark,0,05/23/2013
+1.00,Individual,,Jacob,Whitt,1,05/23/2013
+2.75,Individual,,Jennifer,Foley,1,05/23/2013
+2.75,Individual,,Derrinique,Elliott,1,05/23/2013
+3.00,Individual,,Jennifer,Adams,0,05/24/2013
+4.50,Individual,,Kimandra,Ross,0,05/24/2013
+6.00,Individual,,Shari,Albey,0,05/24/2013
+2.00,Individual,,Taylor,Roark,0,05/24/2013
+1.50,Individual,,April,Gladden,0,05/24/2013
+4.00,Individual,,Ebony,Gladden,0,05/24/2013
+3.50,Individual,,Jennifer,Adams,0,05/25/2013
+6.25,Individual,,Kenya,Jackson,0,05/25/2013
+5.00,Individual,,Kimandra,Ross,0,05/25/2013
+2.00,Individual,,Anthony,Triggs,0,05/25/2013
+13.50,Individual,,Shari,Albey,0,05/25/2013
+8.00,Individual,,Taylor,Roark,0,05/25/2013
+5.00,Individual,,Kenya,Jackson,0,05/26/2013
+5.00,Individual,,Kimandra,Ross,0,05/26/2013
+5.00,Individual,,Anthony,Triggs,0,05/26/2013
+2.00,Individual,,Anthony,Triggs,0,05/27/2013
+2.00,Individual,,Jennifer,Adams,0,05/27/2013
+4.00,Individual,,Marnie,Wall,1,05/27/2013
+1.00,Individual,,Chelsea,Williams,0,05/28/2013
+2.00,Individual,,Ebony,Gladden,0,05/28/2013
+8.75,Individual,,Chelsea,Williams,0,05/28/2013
+14.00,Individual,,Shari,Albey,0,05/28/2013
+7.00,Individual,,Marnie,Wall,1,05/28/2013
+1.50,Individual,,Megan ,Rowe,1,05/28/2013
+5.25,Individual,,Rosalia ,Bowman,1,05/28/2013
+4.50,Individual,,Kenya,Jackson,0,05/29/2013
+3.50,Individual,,Kimandra,Ross,0,05/29/2013
+2.75,Individual,,Gillian,Tamatave,1,05/29/2013
+4.50,Individual,,Chelsea,Williams,0,05/30/2013
+3.00,Individual,,Shari,Albey,0,05/30/2013
+2.75,Individual,,Jennifer,Foley,1,05/30/2013
+5.50,Individual,,Rosalia ,Bowman,1,05/30/2013
+3.00,Individual,,Derrinique,Elliott,1,05/30/2013
+3.00,Individual,,Kimandra,Ross,0,05/31/2013
+3.00,Individual,,Shari,Albey,0,06/01/2013
+4.50,Individual,,Britanie,Rogers,0,06/03/2013
+5.00,Individual,,Kimandra,Ross,0,06/03/2013
+7.50,Individual,,Marnie,Wall,1,06/03/2013
+5.50,Individual,,Rosalia ,Bowman,1,06/03/2013
+2.50,Individual,,Gillian,Tamatave,1,06/03/2013
+3.00,Individual,,Derrinique,Elliott,1,06/03/2013
+3.00,Individual,,Jasmin,Hawkins,0,06/04/2013
+6.00,Individual,,Britanie,Rogers,0,06/04/2013
+5.00,Individual,,Kimandra,Ross,0,06/04/2013
+4.00,Individual,,Natalie,Davenport,0,06/04/2013
+7.00,Individual,,Marnie,Wall,1,06/04/2013
+3.50,Individual,,Jasmin,Hawkins,0,06/05/2013
+5.00,Individual,,Chelsea,Williams,0,06/05/2013
+1.50,Individual,,Kimandra,Ross,0,06/05/2013
+6.25,Individual,,Rosalia ,Bowman,1,06/05/2013
+2.00,Individual,,Jasmin,Hawkins,0,06/06/2013
+1.00,Individual,,Tamya,Favors,0,06/06/2013
+5.00,Individual,,Kimandra,Ross,0,06/06/2013
+5.00,Individual,,Sasha,House,0,06/06/2013
+3.00,Individual,,Jillian,Klinvex,1,06/06/2013
+2.75,Individual,,Jennifer,Foley,1,06/06/2013
+3.25,Individual,,Derrinique,Elliott,1,06/06/2013
+4.25,Individual,,Jasmin,Hawkins,0,06/07/2013
+15.00,Individual,,Tiffani,Baccus,0,06/07/2013
+1.50,Individual,,Sasha,House,0,06/07/2013
+2.00,Individual,,Charmika,Lee,0,06/08/2013
+6.00,Individual,,Sasha,House,0,06/08/2013
+4.00,Individual,,Daquisha,Allen,0,06/10/2013
+2.75,Individual,,Hannah,Gibbs,1,06/10/2013
+6.00,Individual,,Chelsea,Williams,0,06/10/2013
+2.75,Individual,,Kristin,George,0,06/10/2013
+8.00,Individual,,Chelsea,Williams,0,06/10/2013
+8.00,Individual,,Marnie,Wall,1,06/10/2013
+5.75,Individual,,Rosalia ,Bowman,1,06/10/2013
+2.50,Individual,,Gillian,Tamatave,1,06/10/2013
+3.00,Individual,,Derrinique,Elliott,1,06/10/2013
+2.50,Individual,,Hannah,Gibbs,1,06/11/2013
+6.50,Individual,,Shari,Albey,0,06/11/2013
+7.00,Individual,,Kimyra,Ross,0,06/11/2013
+16.50,Individual,,Kimandra,Ross,0,06/11/2013
+4.00,Individual,,Jillian,Klinvex,1,06/11/2013
+7.00,Individual,,Marnie,Wall,1,06/11/2013
+2.50,Individual,,Hannah,Gibbs,1,06/12/2013
+5.75,Individual,,Kristin,George,0,06/12/2013
+3.00,Individual,,Kristin,George,0,06/12/2013
+8.00,Individual,,Rebecca ,Elliott,0,06/12/2013
+1.00,Individual,,Sasha,House,0,06/12/2013
+6.00,Individual,,Rosalia ,Bowman,1,06/12/2013
+4.00,Individual,,Jasmin,Hawkins,0,06/13/2013
+2.50,Individual,,Hannah,Gibbs,1,06/13/2013
+6.00,Individual,,Kristin,George,0,06/13/2013
+6.00,Individual,,Kristin,George,0,06/13/2013
+2.00,Individual,,Lillian,Gensolin,1,06/13/2013
+2.00,Individual,,Megan ,Rowe,1,06/13/2013
+2.50,Individual,,Jennifer,Foley,1,06/13/2013
+3.25,Individual,,Derrinique,Elliott,1,06/13/2013
+5.00,Individual,,Kristin,George,0,06/14/2013
+2.00,Individual,,Kristin,George,0,06/14/2013
+9.50,Individual,,Jasmin,Hawkins,0,06/14/2013
+2.00,Individual,,Sasha,House,0,06/14/2013
+2.50,Individual,,Gillian,Tamatave,1,06/14/2013
+7.00,Individual,,Kenya,Jackson,0,06/15/2013
+16.00,Individual,,Kenya,Jackson,0,06/15/2013
+5.00,Individual,,Kristin,George,0,06/15/2013
+2.00,Individual,,Sasha,House,0,06/15/2013
+2.50,Individual,,Hannah,Gibbs,1,06/17/2013
+1.00,Individual,,Kristin,George,0,06/17/2013
+3.50,Individual,,Kristin,George,0,06/17/2013
+15.00,Individual,,Shari,Albey,0,06/17/2013
+8.00,Individual,,Daquisha,Allen,0,06/17/2013
+4.00,Individual,,Latasha,Sexton,1,06/17/2013
+5.25,Individual,,Rosalia ,Bowman,1,06/17/2013
+2.50,Individual,,Gillian,Tamatave,1,06/17/2013
+3.25,Individual,,Derrinique,Elliott,1,06/17/2013
+2.50,Individual,,Hannah,Gibbs,1,06/18/2013
+2.00,Individual,,Jasmin,Hawkins,0,06/18/2013
+1.75,Individual,,Jonita,Travis,0,06/18/2013
+4.00,Individual,,Latasha,Sexton,1,06/18/2013
+7.50,Individual,,Tephanie,Holrey,0,06/18/2013
+2.00,Individual,,Megan ,Rowe,1,06/18/2013
+2.50,Individual,,Hannah,Gibbs,1,06/19/2013
+5.75,Individual,,Jonita,Travis,0,06/19/2013
+7.75,Individual,,Rosalia ,Bowman,1,06/19/2013
+2.50,Individual,,Hannah,Gibbs,1,06/20/2013
+14.00,Individual,,Donna,Wheeler,0,06/20/2013
+12.50,Individual,,Daquisha,Allen,0,06/20/2013
+2.25,Individual,,Tessa,Burns,1,06/20/2013
+5.50,Individual,,Tephanie,Holrey,0,06/20/2013
+3.75,Individual,,Donna,Wheeler,0,06/20/2013
+3.00,Individual,,LaSonya,Appleberry,0,06/20/2013
+2.00,Individual,,Jennifer,Foley,1,06/20/2013
+3.00,Individual,,Derrinique,Elliott,1,06/20/2013
+3.00,Individual,,LaSonya,Appleberry,0,06/21/2013
+16.00,Individual,,Kenya,Jackson,0,06/21/2013
+27.50,Individual,,Tepahnie,Holcey,0,06/21/2013
+13.00,Individual,,Kimyra,Ross,0,06/21/2013
+2.75,Individual,,Lillian,Gensolin,1,06/21/2013
+3.25,Individual,,Susan,Parks,1,06/21/2013
+7.00,Individual,,Tephanie,Holrey,0,06/21/2013
+27.50,Individual,,Tephanie,Holrey,0,06/21/2013
+5.00,Individual,,Sasha,House,0,06/23/2013
+2.40,Individual,,Jonita,Travis,0,06/23/2013
+2.50,Individual,,Hannah,Gibbs,1,06/24/2013
+27.25,Individual,,Tiffani,Baccus,0,06/24/2013
+6.25,Individual,,Jonita,Travis,0,06/24/2013
+2.75,Individual,,Lillian,Gensolin,1,06/24/2013
+7.00,Individual,,Marnie,Wall,1,06/24/2013
+4.50,Individual,,Kimyra,Ross,0,06/24/2013
+4.00,Individual,,Keosha,Clay,0,06/24/2013
+1.00,Individual,,Gillian,Tamatave,1,06/24/2013
+4.00,Individual,,Emily,Busby,1,06/24/2013
+3.25,Individual,,Derrinique,Elliott,1,06/24/2013
+2.50,Individual,,Hannah,Gibbs,1,06/25/2013
+5.00,Individual,,Shari,Albey,0,06/25/2013
+4.00,Individual,,Keosha,Clay,0,06/25/2013
+4.00,Individual,,Cosha,Young,0,06/25/2013
+3.25,Individual,,Tessa,Burns,1,06/25/2013
+7.00,Individual,,Marnie,Wall,1,06/25/2013
+6.50,Individual,,Rosalia ,Bowman,1,06/25/2013
+2.50,Individual,,Hannah,Gibbs,1,06/26/2013
+4.00,Individual,,Keosha,Clay,0,06/26/2013
+4.50,Individual,,Cosha,Young,0,06/26/2013
+3.50,Individual,,Susan,Parks,1,06/26/2013
+6.00,Individual,,Tephanie,Holrey,0,06/26/2013
+1.50,Individual,,Crystel,Harper,0,06/26/2013
+2.00,Individual,,Megan ,Rowe,1,06/26/2013
+2.50,Individual,,Hannah,Gibbs,1,06/27/2013
+4.00,Individual,,Keosha,Clay,0,06/27/2013
+8.00,Individual,,Cosha,Young,0,06/27/2013
+2.25,Individual,,Tessa,Burns,1,06/27/2013
+4.25,Individual,,Tephanie,Holrey,0,06/27/2013
+2.00,Individual,,Jennifer,Foley,1,06/27/2013
+6.50,Individual,,Rosalia ,Bowman,1,06/27/2013
+3.00,Individual,,Derrinique,Elliott,1,06/27/2013
+4.00,Individual,,LaSonya,Appleberry,0,06/28/2013
+9.00,Individual,,Daquisha,Allen,0,06/28/2013
+16.50,Individual,,Tiffani,Baccus,0,06/28/2013
+2.50,Individual,,Susan,Parks,1,06/28/2013
+5.00,Individual,,Tephanie,Holrey,0,06/28/2013
+16.00,Individual,,Kenya,Jackson,0,06/29/2013
+11.65,Individual,,Jasmin,Hawkins,0,06/30/2013
+7.50,Individual,,Marnie,Wall,1,07/01/2013
+1.50,Individual,,Tephanie,Holrey,0,07/01/2013
+8.00,Individual,,Robin,Penn,0,07/01/2013
+2.00,Individual,,Samika,Perkins,0,07/01/2013
+1.50,Individual,,Jamila,Surles,0,07/01/2013
+2.50,Individual,,Gillian,Tamatave,1,07/01/2013
+3.00,Individual,,Emily,Busby,1,07/01/2013
+3.25,Individual,,Derrinique,Elliott,1,07/01/2013
+8.00,Individual,,Robyn,Penn,0,07/02/2013
+3.00,Individual,,Tessa,Burns,1,07/02/2013
+7.00,Individual,,Marnie,Wall,1,07/02/2013
+4.00,Individual,,LaSonya,Appleberry,0,07/02/2013
+7.75,Individual,,Robin,Penn,0,07/02/2013
+2.00,Individual,,Samika,Perkins,0,07/02/2013
+1.75,Individual,,Megan ,Rowe,1,07/02/2013
+1.60,Individual,,Susan,Parks,1,07/03/2013
+4.50,Individual,,Jasmin,Hawkins,0,07/03/2013
+8.00,Individual,,Robin,Penn,0,07/03/2013
+2.25,Individual,,Susan,Parks,1,07/05/2013
+7.00,Individual,,Marnie,Wall,1,07/05/2013
+8.00,Individual,,Robin,Penn,0,07/05/2013
+2.00,Individual,,Tiffany,Wise,0,07/05/2013
+5.00,Individual,,Adrian,Hilt,0,07/05/2013
+4.00,Individual,,Tiffany,Wise,0,07/06/2013
+4.00,Individual,,Adrian,Hilt,0,07/06/2013
+12.00,Individual,,Adrian,Hite,0,07/07/2013
+13.00,Individual,,Tiffany,Wise,0,07/07/2013
+4.50,Individual,,Robin,Penn,0,07/07/2013
+3.00,Individual,,Natalie,Davenport,0,07/07/2013
+3.00,Individual,,Adrian,Hilt,0,07/07/2013
+4.50,Individual,,Andi,Finnell,3,07/08/2013
+1.00,Individual,,Susan,Parks,1,07/08/2013
+7.00,Individual,,Marnie,Wall,1,07/08/2013
+7.50,Individual,,Rosalia ,Bowman,1,07/08/2013
+2.50,Individual,,Gillian,Tamatave,1,07/08/2013
+2.75,Individual,,Emily,Busby,1,07/08/2013
+3.00,Individual,,Tessa,Burns,1,07/09/2013
+8.00,Individual,,Marnie,Wall,1,07/09/2013
+7.75,Individual,,Robin,Penn,0,07/09/2013
+3.00,Individual,,Adrian,Hilt,0,07/09/2013
+1.50,Individual,,James,Greaves,1,07/10/2013
+5.75,Individual,,Robin,Penn,0,07/10/2013
+4.00,Individual,,Jamila,Surles,0,07/10/2013
+10.25,Individual,,Rosalia ,Bowman,1,07/10/2013
+8.00,Individual,,Robyn,Penn,0,07/11/2013
+2.00,Individual,,Jasmin,Hawkins,0,07/11/2013
+3.00,Individual,,Tephanie,Holrey,0,07/11/2013
+5.25,Individual,,Robin,Penn,0,07/11/2013
+3.00,Individual,,Jennifer,Foley,1,07/11/2013
+3.75,Individual,,Adrian,Hilt,0,07/11/2013
+3.50,Individual,,James,Greaves,1,07/12/2013
+11.00,Individual,,Tiffany,Wise,0,07/12/2013
+1.25,Individual,,Jasmin,Hawkins,0,07/12/2013
+4.00,Individual,,Robin,Penn,0,07/12/2013
+3.00,Individual,,Adrian,Hilt,0,07/12/2013
+4.00,Individual,,Jasmin,Hawkins,0,07/13/2013
+3.00,Individual,,Andi,Finnell,2,07/15/2013
+2.50,Individual,,Gillian,Tamatave,1,07/15/2013
+2.50,Individual,,Tiffany,Wise,0,07/15/2013
+3.00,Individual,,Derrinique,Elliott,1,07/15/2013
+3.50,Individual,,Tessa,Burns,1,07/16/2013
+3.00,Individual,,Jasmin,Hawkins,0,07/16/2013
+6.75,Individual,,Rosalia ,Bowman,1,07/16/2013
+2.00,Individual,,Tiffany,Wise,0,07/16/2013
+4.75,Individual,,Rosalia ,Bowman,1,07/17/2013
+5.00,Individual,,Tiffany,Wise,0,07/17/2013
+3.00,Individual,,Adrian,Hilt,0,07/17/2013
+2.25,Individual,,Emily,Busby,1,07/17/2013
+3.00,Individual,,Tessa,Burns,1,07/18/2013
+2.25,Individual,,Jasmin,Hawkins,0,07/18/2013
+2.25,Individual,,Tiffany,Wise,0,07/18/2013
+3.50,Individual,,Adrian,Hilt,0,07/18/2013
+3.75,Individual,,James,Greaves,1,07/19/2013
+1.00,Individual,,Susan,Parks,1,07/19/2013
+3.00,Individual,,Jasmin,Hawkins,0,07/19/2013
+2.00,Individual,,Tiffany,Wise,0,07/20/2013
+7.00,Individual,,Rebecca ,Elliott,0,07/22/2013
+6.25,Individual,,Marnie,Wall,1,07/22/2013
+2.50,Individual,,Gillian,Tamatave,1,07/22/2013
+3.00,Individual,,Emily,Busby,1,07/22/2013
+3.00,Individual,,Derrinique,Elliott,1,07/22/2013
+2.00,Individual,,Tessa,Burns,1,07/23/2013
+5.50,Individual,,Marnie,Wall,1,07/23/2013
+4.00,Individual,,Jasmin,Hawkins,0,07/23/2013
+16.15,Individual,,Jasmin,Hawkins,0,07/23/2013
+6.00,Individual,,Rosalia ,Bowman,1,07/23/2013
+6.25,Individual,,Christina,Kidd,0,07/23/2013
+1.00,Individual,,Joan,Lindsey,1,07/23/2013
+3.75,Individual,,James,Greaves,1,07/24/2013
+7.00,Individual,,Rosalia ,Bowman,1,07/24/2013
+2.00,Individual,,Christina,Kidd,0,07/24/2013
+3.00,Individual,,Jasmin,Hawkins,0,07/24/2013
+3.50,Individual,,Adrian,Hilt,0,07/24/2013
+1.00,Individual,,Joan,Lindsey,1,07/24/2013
+6.00,Individual,,Rosalia ,Bowman,1,07/25/2013
+1.00,Individual,,Joan,Lindsey,1,07/25/2013
+3.75,Individual,,James,Greaves,1,07/26/2013
+2.50,Individual,,Lillian,Gensolin,1,07/26/2013
+8.00,Individual,,Christina,Kidd,0,07/26/2013
+1.00,Individual,,Jasmin,Hawkins,0,07/26/2013
+2.00,Individual,,Jasmin,Hawkins,0,07/27/2013
+8.50,Individual,,Jasmin,Hawkins,0,07/28/2013
+2.50,Individual,,Jasmin,Hawkins,0,07/28/2013
+5.25,Individual,,Rosalia ,Bowman,1,07/29/2013
+2.50,Individual,,Gillian,Tamatave,1,07/29/2013
+4.00,Individual,,Emily,Busby,1,07/29/2013
+3.00,Individual,,Derrinique,Elliott,1,07/29/2013
+1.00,Individual,,Lisa & Kevin,Freeman,1,07/30/2013
+3.00,Individual,,Jasmin,Hawkins,0,07/30/2013
+1.00,Individual,,Lisa & Kevin,Freeman,1,07/31/2013
+4.00,Individual,,Christina,Kidd,0,07/31/2013
+1.25,Individual,,Jasmin,Hawkins,0,07/31/2013
+1.00,Individual,,Lisa & Kevin,Freeman,1,08/01/2013
+3.00,Individual,,Tessa,Burns,1,08/01/2013
+3.00,Individual,,Jennifer,Foley,1,08/01/2013
+5.50,Individual,,Rosalia ,Bowman,1,08/01/2013
+2.50,Individual,,Christina,Kidd,0,08/01/2013
+5.00,Individual,,Adrian,Hilt,0,08/01/2013
+3.50,Individual,,Derrinique,Elliott,1,08/01/2013
+1.00,Individual,,Lisa & Kevin,Freeman,1,08/02/2013
+8.00,Individual,,Christina,Kidd,0,08/02/2013
+8.00,Individual,,Christina,Kidd,0,08/02/2013
+2.50,Individual,,Gillian,Tamatave,1,08/05/2013
+2.25,Individual,,Andi,Finnell,2,08/05/2013
+3.50,Individual,,Adrian,Hilt,0,08/07/2013
+3.00,Individual,,Jennifer,Foley,1,08/08/2013
+5.25,Individual,,LaTonya,Pitmon,0,08/08/2013
+3.00,Individual,,Adrian,Hilt,0,08/09/2013
+4.00,Individual,,Dianne,Lewis,0,08/09/2013
+3.00,Individual,,LaTonya,Pitmon,0,08/09/2013
+2.00,Individual,,Derrinique,Elliott,1,08/12/2013
+2.50,Individual,,Gillian,Tamatave,1,08/13/2013
+2.50,Individual,,Jennifer,Foley,1,08/15/2013
+3.00,Individual,,Derrinique,Elliott,1,08/15/2013
+0.00,Individual,,Christina,Kidd,0,08/16/2013
+2.00,Individual,,Christina,Kidd,0,08/17/2013
+1.50,Individual,,Emily,Busby,1,08/19/2013
+3.00,Individual,,Derrinique,Elliott,1,08/19/2013
+2.75,Individual,,Jacob,Whitt,1,08/20/2013
+5.00,Individual,,Rebecca ,Elliott,0,08/21/2013
+0.00,Individual,,Christina,Kidd,0,08/21/2013
+2.50,Individual,,Gillian,Tamatave,1,08/21/2013
+2.75,Individual,,Jennifer,Foley,1,08/22/2013
+3.50,Individual,,Derrinique,Elliott,1,08/22/2013
+2.00,Individual,,Miracle,Brown,0,08/23/2013
+2.25,Individual,,Christina,Kidd,0,08/26/2013
+4.00,Individual,,Miracle,Brown,0,08/26/2013
+1.50,Individual,,Emily,Busby,1,08/26/2013
+2.50,Individual,,Gillian,Tamatave,1,08/26/2013
+3.00,Individual,,Derrinique,Elliott,1,08/26/2013
+1.50,Individual,,Tacura,Watkins,0,08/27/2013
+1.50,Individual,,Miracle,Brown,0,08/27/2013
+2.75,Individual,,Gillian,Tamatave,1,08/28/2013
+2.75,Individual,,Jennifer,Foley,1,08/29/2013
+3.00,Individual,,Derrinique,Elliott,1,08/29/2013
+2.25,Individual,,Jacob,Whitt,1,09/04/2013
+2.50,Individual,,Gillian,Tamatave,1,09/04/2013
+3.75,Individual,,Derrinique,Elliott,1,09/05/2013
+1.50,Individual,,Jacob,Whitt,1,09/05/2013
+5.50,Individual,,Christy,Hurd,0,09/09/2013
+3.00,Individual,,Derrinique,Elliott,1,09/09/2013
+1.00,Individual,,Emily,Busby,1,09/09/2013
+6.50,Individual,,Christy,Hurd,0,09/10/2013
+6.00,Individual,,Christy,Hurd,0,09/11/2013
+2.75,Individual,,Gillian,Tamatave,1,09/11/2013
+6.00,Individual,,Christy,Hurd,0,09/12/2013
+3.50,Individual,,Cosha,Young,0,09/12/2013
+0.00,Individual,,Derrinique,Elliott,0,09/12/2013
+2.75,Individual,,Derrinique,Elliott,0,09/12/2013
+0.50,Individual,,Jadarian,Jackson,1,09/13/2013
+0.50,Individual,,Joshua ,Jackson,1,09/13/2013
+8.00,Individual,,Cosha,Young,0,09/14/2013
+5.00,Individual,,Cosha,Young,0,09/15/2013
+0.50,Individual,,Jadarian,Jackson,1,09/16/2013
+1.00,Individual,,Joshua ,Jackson,1,09/16/2013
+3.00,Individual,,Derrinique,Elliott,0,09/16/2013
+1.50,Individual,,Emily,Busby,1,09/16/2013
+1.00,Individual,,Jadarian,Jackson,1,09/17/2013
+0.75,Individual,,Joshua ,Jackson,1,09/17/2013
+4.25,Individual,,Courtney,Dillard,0,09/17/2013
+1.75,Individual,,Emily,Walker,0,09/17/2013
+4.00,Individual,,Mary,Curd,0,09/17/2013
+1.00,Individual,,Joan,Lindsey,1,09/17/2013
+0.75,Individual,,Jadarian,Jackson,1,09/18/2013
+0.50,Individual,,Joshua ,Jackson,1,09/18/2013
+5.00,Individual,,Courtney,Dillard,0,09/18/2013
+2.00,Individual,,Emily,Walker,0,09/18/2013
+4.00,Individual,,Mary,Curd,0,09/18/2013
+1.75,Individual,,Emily,Walker,0,09/19/2013
+5.25,Individual,,Cosha,Young,0,09/19/2013
+3.50,Individual,,Derrinique,Elliott,0,09/19/2013
+3.00,Individual,,Emily,Walker,0,09/20/2013
+3.25,Individual,,Derrinique,Elliott,0,09/23/2013
+1.50,Individual,,Emily,Busby,1,09/23/2013
+4.00,Individual,,Andrew,Kletschka,0,09/24/2013
+2.50,Individual,,Courtney,Dillard,0,09/24/2013
+1.00,Individual,,Joan,Lindsey,1,09/24/2013
+4.00,Individual,,Andrew,Kletschka,0,09/25/2013
+2.25,Individual,,Courtney,Dillard,0,09/25/2013
+4.00,Individual,,Andrew,Kletschka,0,09/26/2013
+2.00,Individual,,Courtney,Dillard,0,09/26/2013
+3.25,Individual,,Derrinique,Elliott,0,09/26/2013
+3.00,Individual,,Andrew,Kletschka,0,09/27/2013
+1.50,Individual,,Courtney,Dillard,0,09/27/2013
+5.50,Individual,,Shelia,Maupin,0,09/27/2013
+2.00,Individual,,Courtney,Dillard,0,09/28/2013
+3.50,Individual,,Shelia,Maupin,0,09/28/2013
+2.00,Individual,,Courtney,Dillard,0,09/29/2013
+3.50,Individual,,Shelia,Maupin,0,09/29/2013
+1.50,Individual,,Andrew,Kletschka,0,09/30/2013
+3.00,Individual,,Derrinique,Elliott,1,09/30/2013
+1.50,Individual,,Emily,Busby,1,09/30/2013
+1.00,Individual,,Rachel,Long,2,09/30/2013
+1.00,Individual,,Joan,Lindsey,1,10/01/2013
+3.00,Individual,,Derrinique,Elliott,1,10/03/2013
+4.00,Individual,,Shelia,Maupin,0,10/04/2013
+3.50,Individual,,Shelia,Maupin,0,10/05/2013
+1.50,Individual,,Emily,Busby,1,10/07/2013
+3.25,Individual,,Derrinique,Elliott,0,10/10/2013
+3.25,Individual,,DeSunta,Pitts,0,10/12/2013
+4.75,Individual,,DeSunta,Pitts,0,10/14/2013
+1.25,Individual,,Emily,Busby,1,10/14/2013
+2.00,Individual,,Ceira,Johnson,0,10/15/2013
+2.00,Individual,,DeSunta,Pitts,0,10/15/2013
+2.15,Individual,,Jennifer,Middleton,0,10/15/2013
+1.00,Individual,,Joan,Lindsey,1,10/15/2013
+5.25,Individual,,Jennifer,Middleton,0,10/16/2013
+4.25,Individual,,Ceira,Johnson,0,10/17/2013
+6.25,Individual,,DeSunta,Pitts,0,10/17/2013
+3.50,Individual,,Jennifer,Middleton,0,10/17/2013
+3.00,Individual,,Derrinique,Elliott,1,10/17/2013
+4.00,Individual,,Ceira,Johnson,0,10/18/2013
+2.25,Individual,,DeSunta,Pitts,0,10/18/2013
+6.75,Individual,,Jennifer,Middleton,0,10/18/2013
+4.50,Individual,,Ceira,Johnson,0,10/19/2013
+3.00,Individual,,Shelia,Maupin,0,10/19/2013
+5.00,Individual,,DeSunta,Pitts,0,10/19/2013
+4.00,Individual,,Jennifer,Middleton,0,10/19/2013
+3.00,Individual,,Shelia,Maupin,0,10/20/2013
+2.50,Individual,,Hannah,Gibbs,1,10/21/2013
+2.00,Individual,,Jennifer,Middleton,0,10/21/2013
+3.50,Individual,,Lynesha,Johnson,0,10/21/2013
+2.50,Individual,,Hannah,Gibbs,1,10/22/2013
+3.00,Individual,,Ceira,Johnson,0,10/22/2013
+1.00,Individual,,Joan,Lindsey,1,10/22/2013
+2.50,Individual,,Hannah,Gibbs,1,10/23/2013
+4.75,Individual,,Jennifer,Middleton,0,10/23/2013
+3.00,Individual,,Emily,Stires,1,10/23/2013
+2.50,Individual,,Hannah,Gibbs,1,10/24/2013
+3.50,Individual,,Jennifer,Middleton,0,10/24/2013
+2.50,Individual,,Hannah,Gibbs,1,10/25/2013
+3.00,Individual,,Ceira,Johnson,0,10/25/2013
+3.00,Individual,,Shelia,Maupin,0,10/26/2013
+5.00,Individual,,Jennifer,Middleton,0,10/27/2013
+3.00,Individual,,Jennifer,Middleton,0,10/28/2013
+3.25,Individual,,Derrinique,Elliott,0,10/28/2013
+1.00,Individual,,Jared,Anderson,1,10/28/2013
+1.50,Individual,,Emily,Busby,0,10/28/2013
+1.00,Individual,,Emma,Hall,1,10/28/2013
+3.50,Individual,,Ceira,Johnson,0,10/29/2013
+1.00,Individual,,Joan,Lindsey,1,10/29/2013
+3.00,Individual,,DeSunta,Pitts,0,10/30/2013
+2.00,Individual,,Emily,Stires,1,10/30/2013
+4.50,Individual,,DeSunta,Pitts,0,10/31/2013
+3.75,Individual,,Derrinique,Elliott,1,10/31/2013
+4.00,Individual,,Ceira,Johnson,0,11/01/2013
+2.50,Individual,,Shelia,Maupin,0,11/02/2013
+1.00,Individual,,Emily,Busby,1,11/04/2013
+0.50,Individual,,Rachel,Long,1,11/04/2013
+2.50,Individual,,Susan ,Evans,1,11/07/2013
+3.00,Individual,,Derrinique,Elliott,1,11/07/2013
+13.00,Individual,,Alexandra,Heard,0,11/09/2013
+3.00,Individual,,Shelia,Maupin,0,11/10/2013
+3.25,Individual,,Derrinique,Elliott,1,11/11/2013
+1.25,Individual,,Emily,Busby,1,11/11/2013
+2.25,Individual,,Emily,Stires,1,11/11/2013
+1.00,Individual,,Emma,Hall,1,11/11/2013
+52.00,Individual,,Linda & Bob,Farnsworth,16,11/12/2013
+7.00,Individual,,Linda & Bob,Farnsworth,1,11/12/2013
+8.50,Individual,,Linda & Bob,Farnsworth,1,11/13/2013
+1.00,Individual,,Jared,Anderson,1,11/13/2013
+2.25,Individual,,Susan ,Evans,1,11/14/2013
+3.50,Individual,,Derrinique,Elliott,1,11/14/2013
+2.50,Individual,,Marnie,Wall,1,11/14/2013
+2.50,Individual,,Marnie,Wall,1,11/15/2013
+4.00,Individual,,ShaRhonda,Bonds,0,11/17/2013
+3.25,Individual,,Derrinique,Elliott,1,11/18/2013
+1.25,Individual,,Emily,Busby,1,11/18/2013
+2.00,Individual,,Emily,Stires,1,11/18/2013
+2.50,Individual,,Marnie,Wall,1,11/18/2013
+2.00,Individual,,Susan ,Evans,1,11/21/2013
+3.50,Individual,,Derrinique,Elliott,1,11/21/2013
+2.50,Individual,,Marnie,Wall,1,11/21/2013
+2.50,Individual,,Marnie,Wall,1,11/22/2013
+2.50,Individual,,Shelia,Maupin,0,11/24/2013
+3.00,Individual,,Derrinique,Elliott,1,11/25/2013
+1.50,Individual,,Emily,Busby,1,11/25/2013
+2.50,Individual,,Marnie,Wall,1,11/25/2013
+2.75,Individual,,Derrinique,Elliott,1,12/02/2013
+2.50,Individual,,Marnie,Wall,1,12/02/2013
+1.00,Individual,,Fred,Obear,2,12/04/2013
+20.00,Individual,,Tiasha,Henry,1,12/04/2013
+2.25,Individual,,Susan ,Evans,1,12/05/2013
+3.00,Individual,,Derrinique,Elliott,1,12/05/2013
+2.50,Individual,,Marnie,Wall,1,12/05/2013
+2.50,Individual,,Marnie,Wall,1,12/06/2013
+3.50,Individual,,Derrinique,Elliott,1,12/09/2013
+1.50,Individual,,Marnie,Wall,1,12/09/2013
+4.00,Individual,,Nikki,Hamill,1,12/11/2013
+3.00,Individual,,Lauren,Greenlee,0,12/11/2013
+3.00,Individual,,Frank,Goodwin,3,12/12/2013
+2.00,Individual,,Susan ,Evans,1,12/12/2013
+2.50,Individual,,Marnie,Wall,1,12/12/2013
+2.50,Individual,,Marnie,Wall,1,12/13/2013
+10.00,Individual,,Rob,Martin,10,12/14/2013
+2.50,Individual,,Marnie,Wall,1,12/16/2013
+6.00,Individual,,Kadi & Andy,Brown,2,12/17/2013
+5.00,Individual,,Alice,Turner,5,12/18/2013
+5.00,Individual,,Marnie,Wall,1,12/19/2013
+8.00,Individual,,Craig,Autry,2,12/19/2013
+3.50,Individual,,Marnie,Wall,1,12/19/2013
+3.00,Individual,,Kathryn,Winland,1,12/20/2013
+6.00,Individual,,Dennis,Forster,2,12/20/2013
+7.00,Individual,,Kim,Ealy,7,12/20/2013
+2.00,Individual,,Alicia,Sanders,1,12/20/2013
+8.00,Individual,,Johnny & Wendy,DeVries,4,12/20/2013
+2.00,Individual,,Barbara,Reid,1,12/23/2013
+1.00,Individual,,Jaime,Tessier,1,12/23/2013
+1.00,Individual,,Karen,Saxton,1,12/23/2013
+2.00,Individual,,Eric,Barnard,1,12/23/2013
+3.00,Individual,,Shemeria,Martin,0,12/23/2013
+2.50,Individual,,Marnie,Wall,1,12/23/2013
+8.00,Individual,,Wilbourne,Markham,2,12/24/2013
+6.00,Individual,,Rachael & Chris,Welch,6,12/26/2013
+2.00,Individual,,Tonya,Henderson,0,12/26/2013
+3.00,Individual,,Shemeria,Martin,0,12/26/2013
+2.00,Individual,,Lauren,Greenlee,0,12/26/2013
+2.50,Individual,,Marnie,Wall,1,12/26/2013
+2.00,Individual,,Tonya,Henderson,0,12/27/2013
+2.00,Individual,,Shelia,Maupin,0,12/27/2013
+2.50,Individual,,Marnie,Wall,1,12/27/2013
+2.50,Individual,,Marnie,Wall,1,12/30/2013
+5.00,Individual,,Kelly,Taylor,0,12/31/2013
+4.50,Individual,,Shelia,Maupin,0,12/31/2013
+80.00,Organization,American Legion Auxiliary #95,,,40,12/15/2013
+1.00,Organization,American Legion Auxiliary #95,,,1,12/24/2013
+5.00,Organization,Blood Assurance,Linda,Hisey,0,12/19/2013
+42.00,Organization,Chattanooga Hallmark Ornamental Club,Ruth,Briggs,7,03/20/2013
+7.50,Organization,Girls Inc,,,15,06/18/2013
+7.50,Organization,Girls Inc,,,15,06/24/2013
+5.00,Organization,MidTown Council of the Chamber of Commerce,,,1,12/17/2013
+40.00,Organization,Rotary Club of Hamilton Place,,,20,12/04/2013
+20.00,Organization,Run Away Moms,Shawn,Tatum,10,12/23/2013
+5.00,Organization,Sigma Beta Sorority,Karen,Rentzsch,5,12/09/2013
+30.00,Organization,Steel Brother Motorcycle Club,,,10,12/24/2013
+10.00,Organization,TVA Retirees,Tom ,Swanson,5,12/10/2013
+27.00,Organization,VFW 4848,,,9,07/23/2013
+1.00,Organization,YMCA,Brice,Percy,1,12/24/2013
+31.50,Organization,Youth Leadership Chattanooga,,,21,02/13/2013
+120.00,Organization,,Derrick,Pendergrass,60,02/11/2013
+0.50,Organization,,Geneva,Edmond,1,03/13/2013
+0.50,Organization,,Geneva,Edmond,1,03/20/2013
+0.50,Organization,,Geneva,Edmond,1,04/03/2013
+0.50,Organization,,Geneva,Edmond,1,04/10/2013
+0.50,Organization,,Geneva,Edmond,1,04/17/2013
+0.50,Organization,,Geneva,Edmond,1,04/24/2013
+0.50,Organization,,Geneva,Edmond,1,05/01/2013
+0.50,Organization,,Geneva,Edmond,1,05/08/2013
+0.50,Organization,,Geneva,Edmond,1,05/15/2013
+1.50,Organization,,Frances ,Wilson,1,09/17/2013
+1.50,Organization,,Nancy,Barber,1,09/17/2013
+1.50,Organization,,Frances ,Wilson,1,09/24/2013
+1.50,Organization,,Nancy,Barber,1,09/24/2013
+1.50,Organization,,Frances ,Wilson,1,10/01/2013
+1.50,Organization,,Nancy,Barber,1,10/01/2013
+1.50,Organization,,Frances ,Wilson,1,10/08/2013
+1.50,Organization,,Nancy,Barber,1,10/08/2013
+1.00,Organization,,Nancy,Barber,1,10/15/2013
+0.50,Organization,,Gabriel,Trujillo,1,10/16/2013
+0.50,Organization,,Rachel,Harwood,1,10/16/2013
+1.00,Organization,,Frances ,Wilson,1,10/22/2013
+0.50,Organization,,Gabriel,Trujillo,1,10/23/2013
+0.50,Organization,,Rachel,Harwood,1,10/23/2013
+0.50,Organization,,Gabriel,Trujillo,1,10/24/2013
+0.50,Organization,,Rachel,Harwood,1,10/29/2013
+1.50,Organization,,Nancy,Barber,1,10/29/2013
+1.00,Organization,,Frances ,Wilson,1,11/05/2013
+0.50,Organization,,Gabriel,Trujillo,1,11/06/2013
+0.50,Organization,,Rachel,Harwood,1,11/06/2013
+0.50,Organization,,Gabriel,Trujillo,1,11/13/2013
+0.50,Organization,,Rachel,Harwood,1,11/13/2013
+1.00,Organization,,Nancy,Barber,1,11/14/2013
+1.25,Organization,,Nancy,Barber,1,11/19/2013
+0.50,Organization,,Gabriel,Trujillo,1,11/20/2013
+0.50,Organization,,Rachel,Harwood,1,11/20/2013
+0.50,Organization,,Gabriel,Trujillo,1,11/27/2013
+0.50,Organization,,Rachel,Harwood,1,11/27/2013
+20.00,Organization,,Joreen,Gainer,10,12/03/2013
+1.00,Organization,,Nancy,Barber,1,12/03/2013
+0.50,Organization,,Gabriel,Trujillo,1,12/04/2013
+0.50,Organization,,Rachel,Harwood,1,12/04/2013
+22.00,School,Boyd Buchanan Secondary School,,,22,04/02/2013
+23.00,School,Boyd Buchanan Secondary School,,,23,04/04/2013
+63.00,School,Brainerd Baptist School,,,63,03/22/2013
+13.00,School,Center for Creative Arts,Michael,Picone,13,01/16/2013
+13.00,School,Center for Creative Arts,Michael,Picone,13,01/23/2013
+7.00,School,Center for Creative Arts,Michael,Picone,7,02/11/2013
+3.00,School,Chattanooga College,,,4,02/15/2013
+"3,000.00",School,Collegedale Academy,Chris,Massengale,75,12/04/2013
+160.00,School,Collegedale Academy,Chris,Massengale,80,12/10/2013
+5.00,School,CSAS,,,5,12/19/2013
+27.50,School,East Hamilton High School,Christy,Lenoir,11,08/05/2013
+2.00,School,East Lake Elementary School,Etienne,Easley,2,12/17/2013
+14.00,School,GPS Key Club,,,14,04/15/2013
+8.00,School,GPS Key Club,,,8,10/28/2013
+4.00,School,GPS Key Club,,,4,11/21/2013
+78.00,School,Grace Baptist Academy-Volunteers ,,,52,03/22/2013
+232.00,School,Heritage High School,Alan ,Broom,155,12/18/2013
+34.50,School,Hickory Valley Christian School,Loretta,Stynchcombe,23,12/06/2013
+55.50,School,Hixson High School,,,37,12/05/2013
+15.00,School,"Howard High School, On Point",,,15,03/20/2013
+14.00,School,"Howard High School, On Point",,,14,03/20/2013
+8.00,School,Lakeside Academy,,,16,12/18/2013
+115.00,School,"Lee University, Ellis Atkins Hall",,,23,03/16/2013
+10.00,School,Normal Park Museum Magnet,Jill,Levine,5,12/20/2013
+21.00,School,Silverdale Baptist Academy Elementary School,,,21,04/25/2013
+20.00,School,Silverdale Baptist Academy Elementary School,,,20,11/08/2013
+21.00,School,Silverdale Baptist Academy Elementary School,,,21,11/15/2013
+18.00,School,Silverdale Baptist Academy Elementary School,,,18,11/22/2013
+16.50,School,Silverdale Baptist Academy Middle School,,,11,03/15/2013
+4.00,School,Southern Adventist University Volunteers,,,4,01/18/2013
+72.00,School,Southern Adventist University Volunteers,,,16,01/21/2013
+15.00,School,Southern Adventist University Volunteers,,,5,04/26/2013
+34.00,School,Southern Adventist University Volunteers,,,17,08/28/2013
+400.00,School,The Bright School,O.J. ,Morgan,200,12/18/2013
+2.25,School,University of TN at Chatt,Martha,Rawlings,1,02/05/2013
+2.50,School,University of TN at Chatt,Martha,Rawlings,1,02/07/2013
+2.00,School,University of TN at Chatt,Martha,Rawlings,1,02/12/2013
+3.50,School,University of TN at Chatt,Martha,Rawlings,1,02/14/2013
+2.00,School,University of TN at Chatt,Martha,Rawlings,1,02/19/2013
+2.75,School,University of TN at Chatt,Martha,Rawlings,1,02/21/2013
+2.50,School,University of TN at Chatt,Martha,Rawlings,1,03/05/2013
+2.75,School,University of TN at Chatt,Martha,Rawlings,1,03/07/2013
+2.50,School,University of TN at Chatt,Martha,Rawlings,1,03/12/2013
+2.00,School,University of TN at Chatt,Martha,Rawlings,1,03/14/2013
+2.75,School,University of TN at Chatt,Martha,Rawlings,1,03/19/2013
+3.50,School,University of TN at Chatt,Martha,Rawlings,1,03/21/2013
+2.50,School,University of TN at Chatt,Martha,Rawlings,1,03/27/2013
+2.00,School,University of TN at Chatt,Martha,Rawlings,1,03/28/2013
+2.00,School,University of TN at Chatt,Martha,Rawlings,1,04/02/2013
+2.00,School,University of TN at Chatt,Martha,Rawlings,1,04/04/2013
+2.00,School,University of TN at Chatt,Martha,Rawlings,1,04/09/2013
+2.00,School,University of TN at Chatt,Martha,Rawlings,1,04/11/2013
+3.00,School,University of TN at Chatt,Martha,Rawlings,1,04/16/2013
+3.00,School,University of TN at Chatt,Martha,Rawlings,1,04/18/2013
+2.00,School,University of TN at Chatt,Martha,Rawlings,1,04/23/2013
+2.00,School,University of TN at Chatt,Martha,Rawlings,1,04/25/2013
+2.00,School,University of TN at Chatt,Martha,Rawlings,1,05/07/2013
+2.00,School,University of TN at Chatt,Martha,Rawlings,1,05/09/2013
+2.25,School,University of TN at Chatt,Martha,Rawlings,1,05/14/2013
+2.00,School,University of TN at Chatt,Martha,Rawlings,1,05/16/2013
+2.25,School,University of TN at Chatt,Martha,Rawlings,1,07/13/2013
+2.00,School,University of TN at Chatt,Martha,Rawlings,1,07/15/2013
+2.00,School,University of TN at Chatt,Martha,Rawlings,1,08/20/2013
+2.00,School,University of TN at Chatt,Martha,Rawlings,1,08/22/2013
+1.50,School,University of TN at Chatt,Martha,Rawlings,1,08/27/2013
+2.00,School,University of TN at Chatt,Martha,Rawlings,1,08/28/2013
+2.00,School,University of TN at Chatt,Martha,Rawlings,1,08/29/2013
+1.50,School,University of TN at Chatt,Martha,Rawlings,1,09/03/2013
+2.00,School,University of TN at Chatt,Martha,Rawlings,1,09/04/2013
+2.00,School,University of TN at Chatt,Martha,Rawlings,1,09/05/2013
+2.50,School,University of TN at Chatt,Martha,Rawlings,1,09/09/2013
+2.50,School,University of TN at Chatt,Martha,Rawlings,1,09/10/2013
+2.00,School,University of TN at Chatt,Martha,Rawlings,1,09/11/2013
+2.00,School,University of TN at Chatt,Martha,Rawlings,1,09/12/2013
+2.00,School,University of TN at Chatt,Martha,Rawlings,1,09/16/2013
+0.50,School,University of TN at Chatt,Martha,Rawlings,1,09/17/2013
+2.00,School,University of TN at Chatt,Martha,Rawlings,1,09/18/2013
+2.00,School,University of TN at Chatt,Martha,Rawlings,1,09/20/2013
+2.00,School,University of TN at Chatt,Martha,Rawlings,1,09/23/2013
+2.00,School,University of TN at Chatt,Martha,Rawlings,1,09/24/2013
+2.00,School,University of TN at Chatt,Martha,Rawlings,1,09/25/2013
+2.00,School,University of TN at Chatt,Martha,Rawlings,1,09/26/2013
+2.00,School,University of TN at Chatt,Martha,Rawlings,1,09/30/2013
+2.00,School,University of TN at Chatt,Martha,Rawlings,1,10/01/2013
+2.00,School,University of TN at Chatt,Martha,Rawlings,1,10/02/2013
+2.50,School,University of TN at Chatt,Martha,Rawlings,1,10/03/2013
+2.00,School,University of TN at Chatt,Martha,Rawlings,1,10/07/2013
+3.00,School,University of TN at Chatt,Martha,Rawlings,1,10/08/2013
+2.50,School,University of TN at Chatt,Martha,Rawlings,1,10/10/2013
+2.75,School,University of TN at Chatt,Martha,Rawlings,1,10/14/2013
+2.00,School,University of TN at Chatt,Martha,Rawlings,1,10/15/2013
+1.50,School,University of TN at Chatt,Martha,Rawlings,1,10/16/2013
+2.00,School,University of TN at Chatt,Martha,Rawlings,1,10/17/2013
+2.00,School,University of TN at Chatt,Martha,Rawlings,1,10/20/2013
+1.50,School,University of TN at Chatt,Martha,Rawlings,1,10/28/2013
+2.50,School,University of TN at Chatt,Martha,Rawlings,1,10/29/2013
+1.00,School,University of TN at Chatt,Martha,Rawlings,1,10/30/2013
+2.50,School,University of TN at Chatt,Martha,Rawlings,1,11/04/2013
+2.50,School,University of TN at Chatt,Martha,Rawlings,1,11/06/2013
+2.25,School,University of TN at Chatt,Martha,Rawlings,1,11/07/2013
+1.50,School,University of TN at Chatt,Martha,Rawlings,1,11/11/2013
+2.25,School,University of TN at Chatt,Martha,Rawlings,1,11/12/2013
+1.00,School,University of TN at Chatt,Martha,Rawlings,1,11/13/2013
+2.50,School,University of TN at Chatt,Martha,Rawlings,1,11/14/2013
+2.50,School,University of TN at Chatt,Martha,Rawlings,1,11/18/2013
+2.50,School,University of TN at Chatt,Martha,Rawlings,1,11/19/2013
+2.50,School,University of TN at Chatt,Martha,Rawlings,1,11/20/2013
+2.25,School,University of TN at Chatt,Martha,Rawlings,1,11/22/2013
+1.75,School,University of TN at Chatt,Martha,Rawlings,1,12/09/2013
+3.25,School,University of TN at Chatt,Martha,Rawlings,1,12/11/2013
+2.50,School,University of TN at Chatt,Martha,Rawlings,1,12/12/2013
+1.75,School,University of TN at Chatt,Martha,Rawlings,1,12/17/2013
+3.00,School,University of TN at Chatt,Martha,Rawlings,1,12/18/2013
+3.00,School,University of TN at Chatt,Martha,Rawlings,1,12/19/2013
+1.50,School,University of TN at Chatt,Martha,Rawlings,1,12/23/2013
+1.50,School,University of TN at Chatt,Martha,Rawlings,1,12/26/2013
+1.00,School,University of TN at Chatt,Martha,Rawlings,1,12/27/2013
+6.25,School,UTC Global Training Group,Connor,Brown,5,10/22/2013
+1.00,School,UTC Mortar Board,,,1,01/30/2013
+2.00,School,UTC Mortar Board,,,2,02/06/2013
+2.00,School,UTC Mortar Board,,,2,02/20/2013
+2.00,School,UTC Mortar Board,,,2,02/27/2013
+2.00,School,UTC Mortar Board,,,2,03/13/2013
+2.00,School,UTC Mortar Board,,,2,03/20/2013
+5.00,School,UTC Mortar Board,,,5,03/27/2013
+1.00,School,UTC Mortar Board,,,1,04/10/2013
+2.00,School,,Shinetha,Preston,1,01/03/2013
+1.00,School,,Katie,Ward,1,01/07/2013
+1.00,School,,Ellyn,Conn,1,01/07/2013
+1.50,School,,Shinetha,Preston,1,01/08/2013
+1.50,School,,Ellyn,Conn,1,01/14/2013
+1.20,School,,Akailah,Bulloch,1,01/14/2013
+1.00,School,,Akailah,Bulloch,1,01/15/2013
+1.00,School,,Ellyn,Conn,1,01/16/2013
+1.00,School,,Akailah,Bulloch,1,01/21/2013
+0.75,School,,Haylee,Conerly,1,01/21/2013
+1.50,School,,Ellyn,Conn,1,01/23/2013
+1.00,School,,Ellyn,Conn,1,01/28/2013
+1.00,School,,Akailah,Bulloch,1,01/28/2013
+1.50,School,,Ellyn,Conn,1,01/29/2013
+1.00,School,,Akailah,Bulloch,1,01/29/2013
+1.50,School,,Ellyn,Conn,1,01/30/2013
+2.25,School,,Ashley,Kline,1,01/30/2013
+1.25,School,,Akailah,Bulloch,1,02/04/2013
+2.00,School,,Ashley,Kline,1,02/04/2013
+1.00,School,,Akailah,Bulloch,1,02/05/2013
+1.00,School,,Mary,Sabourin,1,02/06/2013
+1.00,School,,Kruesi,Brock,1,02/06/2013
+1.00,School,,Ellen,Stone,1,02/06/2013
+0.75,School,,Brandt,McGregor,1,02/06/2013
+0.75,School,,Hannah,Jernigan,1,02/06/2013
+0.75,School,,Rob,Wolfe,1,02/06/2013
+0.75,School,,Julia,Kimsey,1,02/06/2013
+0.75,School,,Erin,McLaughlin,1,02/07/2013
+1.50,School,,Madison,Land,1,02/07/2013
+0.75,School,,Leighanne,Tucker,1,02/07/2013
+1.00,School,,Chandler,Peppers,1,02/07/2013
+1.50,School,,Ellie,Henry,1,02/07/2013
+1.50,School,,Mary,Sabourin,1,02/08/2013
+1.50,School,,Kruesi,Brock,1,02/08/2013
+1.50,School,,Ellen,Stone,1,02/08/2013
+1.50,School,,Brandt,McGregor,1,02/08/2013
+1.25,School,,Hannah,Jernigan,1,02/08/2013
+1.25,School,,Rob,Wolfe,1,02/08/2013
+1.50,School,,Julia,Kimsey,1,02/08/2013
+1.25,School,,Akailah,Bulloch,1,02/11/2013
+1.25,School,,Erin,McLaughlin,1,02/11/2013
+2.00,School,,Ashley,Kline,1,02/11/2013
+1.25,School,,Madison,Land,1,02/11/2013
+1.25,School,,Leighanne,Tucker,1,02/11/2013
+1.25,School,,Madison,Eaves,1,02/11/2013
+1.50,School,,Kruesi,Brock,1,02/11/2013
+1.25,School,,Chandler,Peppers,1,02/11/2013
+1.25,School,,Haley,Johns,1,02/11/2013
+1.25,School,,Ellie,Henry,1,02/11/2013
+1.00,School,,Akailah,Bulloch,1,02/12/2013
+1.50,School,,Mary,Sabourin,1,02/12/2013
+1.50,School,,Ellen,Stone,1,02/12/2013
+1.50,School,,Brandt,McGregor,1,02/12/2013
+1.00,School,,Rob,Wolfe,1,02/12/2013
+1.50,School,,Julia,Kimsey,1,02/12/2013
+0.75,School,,Erin,McLaughlin,1,02/13/2013
+2.00,School,,Ashley,Kline,1,02/13/2013
+0.75,School,,Madison,Land,1,02/13/2013
+0.50,School,,Chandler,Peppers,1,02/13/2013
+0.50,School,,Haley,Johns,1,02/13/2013
+0.50,School,,Ellie,Henry,1,02/13/2013
+1.00,School,,Mary,Sabourin,1,02/14/2013
+1.00,School,,Kruesi,Brock,1,02/14/2013
+1.00,School,,Ellen,Stone,1,02/14/2013
+1.00,School,,Brandt,McGregor,1,02/14/2013
+1.00,School,,Hannah,Jernigan,1,02/14/2013
+1.00,School,,Rob,Wolfe,1,02/14/2013
+1.00,School,,Julia,Kimsey,1,02/14/2013
+2.00,School,,Ashley,Kline,1,02/18/2013
+2.00,School,,Mary,Galindez,1,02/20/2013
+2.00,School,,Ashley,Kline,1,02/20/2013
+1.25,School,,Akailah,Bulloch,1,02/25/2013
+1.25,School,,Erin,McLaughlin,1,02/25/2013
+2.00,School,,Ashley,Kline,1,02/25/2013
+1.00,School,,Madison,Land,1,02/25/2013
+0.75,School,,Leighanne,Tucker,1,02/25/2013
+1.00,School,,Madison,Eaves,1,02/25/2013
+1.00,School,,Chandler,Peppers,1,02/25/2013
+1.25,School,,Haley,Johns,1,02/25/2013
+1.25,School,,Ellie,Henry,1,02/25/2013
+1.00,School,,Akailah,Bulloch,1,02/26/2013
+1.50,School,,Mary,Sabourin,1,02/26/2013
+1.50,School,,Kruesi,Brock,1,02/26/2013
+1.00,School,,Ellen,Stone,1,02/26/2013
+1.25,School,,Brandt,McGregor,1,02/26/2013
+1.50,School,,Hannah,Jernigan,1,02/26/2013
+1.25,School,,Rob,Wolfe,1,02/26/2013
+1.25,School,,Julia,Kimsey,1,02/26/2013
+2.00,School,,Mary,Galindez,1,02/27/2013
+0.75,School,,Erin,McLaughlin,1,02/27/2013
+2.00,School,,Ashley,Kline,1,02/27/2013
+0.75,School,,Madison,Land,1,02/27/2013
+1.25,School,,Leighanne,Tucker,1,02/27/2013
+0.25,School,,Madison,Eaves,1,02/27/2013
+0.50,School,,Chandler,Peppers,1,02/27/2013
+0.75,School,,Haley,Johns,1,02/27/2013
+0.50,School,,Ellie,Henry,1,02/27/2013
+1.00,School,,Mary,Sabourin,1,02/28/2013
+1.00,School,,Kruesi,Brock,1,02/28/2013
+1.00,School,,Ellen,Stone,1,02/28/2013
+1.00,School,,Brandt,McGregor,1,02/28/2013
+1.00,School,,Hannah,Jernigan,1,02/28/2013
+0.75,School,,Rob,Wolfe,1,02/28/2013
+1.00,School,,Julia,Kimsey,1,02/28/2013
+1.25,School,,Erin,McLaughlin,1,03/01/2013
+1.25,School,,Madison,Land,1,03/01/2013
+1.25,School,,Leighanne,Tucker,1,03/01/2013
+1.00,School,,Chandler,Peppers,1,03/01/2013
+0.50,School,,Haley,Johns,1,03/01/2013
+1.25,School,,Ellie,Henry,1,03/01/2013
+1.00,School,,Akailah,Bulloch,1,03/04/2013
+2.00,School,,Ashley,Kline,1,03/04/2013
+1.50,School,,Mary,Sabourin,1,03/04/2013
+1.15,School,,Kruesi,Brock,1,03/04/2013
+1.50,School,,Ellen,Stone,1,03/04/2013
+1.50,School,,Brandt,McGregor,1,03/04/2013
+1.25,School,,Hannah,Jernigan,1,03/04/2013
+1.25,School,,Rob,Wolfe,1,03/04/2013
+3.50,School,,LaStacia,Peele,1,03/04/2013
+2.00,School,,Amanda,Martin,1,03/05/2013
+1.25,School,,Erin,McLaughlin,1,03/05/2013
+1.25,School,,Madison,Land,1,03/05/2013
+1.25,School,,Leighanne,Tucker,1,03/05/2013
+1.25,School,,Madison,Eaves,1,03/05/2013
+1.00,School,,Chandler,Peppers,1,03/05/2013
+1.25,School,,Haley,Johns,1,03/05/2013
+1.25,School,,Ellie,Henry,1,03/05/2013
+1.50,School,,Tamara,Bowman,1,03/06/2013
+2.00,School,,Mary,Galindez,1,03/06/2013
+1.00,School,,Mary,Sabourin,1,03/06/2013
+1.00,School,,Kruesi,Brock,1,03/06/2013
+0.50,School,,Ellen,Stone,1,03/06/2013
+1.00,School,,Brandt,McGregor,1,03/06/2013
+0.50,School,,Hannah,Jernigan,1,03/06/2013
+0.75,School,,Rob,Wolfe,1,03/06/2013
+1.00,School,,Akia,Grissom,1,03/07/2013
+0.75,School,,Erin,McLaughlin,1,03/07/2013
+0.50,School,,Leighanne,Tucker,1,03/07/2013
+0.50,School,,Haley,Johns,1,03/07/2013
+0.75,School,,Ellie,Henry,1,03/07/2013
+1.50,School,,Mary,Sabourin,1,03/08/2013
+1.50,School,,Kruesi,Brock,1,03/08/2013
+1.50,School,,Ellen,Stone,1,03/08/2013
+1.50,School,,Hannah,Jernigan,1,03/08/2013
+1.50,School,,Julia,Kimsey,1,03/08/2013
+3.50,School,,Ashlyn,York,1,03/11/2013
+1.25,School,,Akailah,Bulloch,1,03/11/2013
+1.25,School,,Erin,McLaughlin,1,03/11/2013
+1.25,School,,Madison,Land,1,03/11/2013
+1.25,School,,Leighanne,Tucker,1,03/11/2013
+1.25,School,,Madison,Eaves,1,03/11/2013
+1.25,School,,Haley,Johns,1,03/11/2013
+1.25,School,,Ellie,Henry,1,03/11/2013
+3.50,School,,Ashlyn,York,1,03/12/2013
+1.00,School,,Akailah,Bulloch,1,03/12/2013
+1.50,School,,Mary,Sabourin,1,03/12/2013
+1.50,School,,Ellen,Stone,1,03/12/2013
+1.50,School,,Hannah,Jernigan,1,03/12/2013
+1.25,School,,Rob,Wolfe,1,03/12/2013
+1.50,School,,Julia,Kimsey,1,03/12/2013
+2.25,School,,Tamara,Bowman,1,03/13/2013
+1.50,School,,Jasmine,McCroskey,1,03/13/2013
+0.75,School,,Erin,McLaughlin,1,03/13/2013
+0.75,School,,Madison,Land,1,03/13/2013
+0.75,School,,Leighanne,Tucker,1,03/13/2013
+0.75,School,,Madison,Eaves,1,03/13/2013
+0.50,School,,Haley,Johns,1,03/13/2013
+0.75,School,,Ellie,Henry,1,03/13/2013
+2.25,School,,Ankita,Sheth,1,03/14/2013
+1.00,School,,Akia,Grissom,1,03/14/2013
+1.50,School,,Mary,Sabourin,1,03/14/2013
+1.00,School,,Kruesi,Brock,1,03/14/2013
+0.50,School,,Ellen,Stone,1,03/14/2013
+1.00,School,,Brandt,McGregor,1,03/14/2013
+1.00,School,,Hannah,Jernigan,1,03/14/2013
+0.75,School,,Rob,Wolfe,1,03/14/2013
+1.00,School,,Julia,Kimsey,1,03/14/2013
+3.00,School,,Ankita,Sheth,1,03/15/2013
+1.25,School,,Erin,McLaughlin,1,03/15/2013
+1.25,School,,Madison,Land,1,03/15/2013
+1.25,School,,Leighanne,Tucker,1,03/15/2013
+1.25,School,,Madison,Eaves,1,03/15/2013
+1.25,School,,Haley,Johns,1,03/15/2013
+1.25,School,,Ellie,Henry,1,03/15/2013
+3.50,School,,Ashlyn,York,1,03/18/2013
+2.00,School,,Ashley,Kline,1,03/18/2013
+1.50,School,,Kruesi,Brock,1,03/18/2013
+1.50,School,,Ellen,Stone,1,03/18/2013
+1.50,School,,Brandt,McGregor,1,03/18/2013
+1.50,School,,Hannah,Jernigan,1,03/18/2013
+1.00,School,,Rob,Wolfe,1,03/18/2013
+1.25,School,,Julia,Kimsey,1,03/18/2013
+3.50,School,,Ashlyn,York,1,03/19/2013
+2.00,School,,Amanda,Martin,1,03/19/2013
+1.25,School,,Erin,McLaughlin,1,03/19/2013
+1.25,School,,Madison,Land,1,03/19/2013
+1.25,School,,Leighanne,Tucker,1,03/19/2013
+1.25,School,,Madison,Eaves,1,03/19/2013
+1.00,School,,Haley,Johns,1,03/19/2013
+1.25,School,,Ellie,Henry,1,03/19/2013
+2.25,School,,Tamara,Bowman,1,03/20/2013
+1.25,School,,Jasmine,McCroskey,1,03/20/2013
+2.00,School,,Ashley,Kline,1,03/20/2013
+1.00,School,,Mary,Sabourin,1,03/20/2013
+0.75,School,,Madison,Eaves,1,03/20/2013
+1.00,School,,Ellen,Stone,1,03/20/2013
+1.00,School,,Brandt,McGregor,1,03/20/2013
+0.75,School,,Hannah,Jernigan,1,03/20/2013
+0.75,School,,Rob,Wolfe,1,03/20/2013
+0.75,School,,Julia,Kimsey,1,03/20/2013
+1.50,School,,Akia,Grissom,1,03/21/2013
+0.75,School,,Erin,McLaughlin,1,03/21/2013
+0.75,School,,Leighanne,Tucker,1,03/21/2013
+0.75,School,,Haley,Johns,1,03/21/2013
+0.75,School,,Ellie,Henry,1,03/21/2013
+1.50,School,,Mary,Sabourin,1,03/22/2013
+1.50,School,,Kruesi,Brock,1,03/22/2013
+1.50,School,,Ellen,Stone,1,03/22/2013
+1.25,School,,Brandt,McGregor,1,03/22/2013
+1.50,School,,Hannah,Jernigan,1,03/22/2013
+1.00,School,,Rob,Wolfe,1,03/22/2013
+1.25,School,,Julia,Kimsey,1,03/23/2013
+3.50,School,,Ashlyn,York,1,03/25/2013
+4.00,School,,Elijah ,Dodds,1,03/25/2013
+5.50,School,,Akia,Grissom,1,03/25/2013
+4.25,School,,Jasmine,McCroskey,1,03/25/2013
+4.00,School,,Brooke,Moore,1,03/25/2013
+3.50,School,,Ashlyn,York,1,03/26/2013
+4.25,School,,Elijah ,Dodds,1,03/26/2013
+1.50,School,,Amanda,Martin,1,03/26/2013
+4.25,School,,Jasmine,McCroskey,1,03/26/2013
+4.00,School,,Brooke,Moore,1,03/26/2013
+4.75,School,,Elijah ,Dodds,1,03/27/2013
+8.00,School,,Akia,Grissom,1,03/27/2013
+4.25,School,,Jasmine,McCroskey,1,03/27/2013
+4.00,School,,Brooke,Moore,1,03/27/2013
+4.50,School,,Elijah ,Dodds,1,03/28/2013
+6.00,School,,Akia,Grissom,1,03/28/2013
+4.25,School,,Jasmine,McCroskey,1,03/28/2013
+3.50,School,,Brooke,Moore,1,03/28/2013
+4.50,School,,Elijah ,Dodds,1,03/29/2013
+4.50,School,,Brooke,Moore,1,03/29/2013
+3.50,School,,Ashlyn,York,1,04/01/2013
+3.50,School,,Ashlyn,York,1,04/02/2013
+1.25,School,,Erin,McLaughlin,1,04/02/2013
+1.00,School,,Madison,Land,1,04/02/2013
+1.00,School,,Leighanne,Tucker,1,04/02/2013
+1.25,School,,Madison,Eaves,1,04/02/2013
+1.00,School,,Kruesi,Brock,1,04/02/2013
+1.00,School,,Haley,Johns,1,04/02/2013
+1.25,School,,Ellie,Henry,1,04/02/2013
+1.00,School,,Mary,Sabourin,1,04/03/2013
+0.75,School,,Leighanne,Tucker,1,04/03/2013
+1.00,School,,Ellen,Stone,1,04/03/2013
+1.00,School,,Brandt,McGregor,1,04/03/2013
+0.75,School,,Hannah,Jernigan,1,04/03/2013
+0.75,School,,Rob,Wolfe,1,04/03/2013
+1.00,School,,Julia,Kimsey,1,04/03/2013
+0.75,School,,Erin,McLaughlin,1,04/04/2013
+0.75,School,,Madison,Land,1,04/04/2013
+0.75,School,,Madison,Eaves,1,04/04/2013
+0.75,School,,Haley,Johns,1,04/04/2013
+0.75,School,,Ellie,Henry,1,04/04/2013
+1.50,School,,Mary,Sabourin,1,04/05/2013
+1.50,School,,Kruesi,Brock,1,04/05/2013
+1.50,School,,Brandt,McGregor,1,04/05/2013
+1.50,School,,Hannah,Jernigan,1,04/05/2013
+1.00,School,,Rob,Wolfe,1,04/05/2013
+1.50,School,,Kruesi,Brock,1,04/07/2013
+3.50,School,,Ashlyn,York,1,04/08/2013
+1.00,School,,Ta'Keisha ,Heathington,1,04/08/2013
+1.25,School,,Erin,McLaughlin,1,04/08/2013
+1.00,School,,Madison,Land,1,04/08/2013
+1.00,School,,Leighanne,Tucker,1,04/08/2013
+1.25,School,,Madison,Eaves,1,04/08/2013
+1.00,School,,Haley,Johns,1,04/08/2013
+3.50,School,,Ashlyn,York,1,04/09/2013
+1.50,School,,Mary,Sabourin,1,04/09/2013
+1.50,School,,Ellen,Stone,1,04/09/2013
+1.50,School,,Brandt,McGregor,1,04/09/2013
+1.25,School,,Hannah,Jernigan,1,04/09/2013
+1.00,School,,Rob,Wolfe,1,04/09/2013
+1.25,School,,Julia,Kimsey,1,04/09/2013
+0.75,School,,Erin,McLaughlin,1,04/10/2013
+0.75,School,,Madison,Land,1,04/10/2013
+0.50,School,,Leighanne,Tucker,1,04/10/2013
+0.50,School,,Madison,Eaves,1,04/10/2013
+0.50,School,,Haley,Johns,1,04/10/2013
+0.75,School,,Ellie,Henry,1,04/10/2013
+1.00,School,,Mary,Sabourin,1,04/11/2013
+1.00,School,,Kruesi,Brock,1,04/11/2013
+1.00,School,,Ellen,Stone,1,04/11/2013
+1.00,School,,Brandt,McGregor,1,04/11/2013
+0.75,School,,Hannah,Jernigan,1,04/11/2013
+0.75,School,,Rob,Wolfe,1,04/11/2013
+1.00,School,,Julia,Kimsey,1,04/11/2013
+1.25,School,,Erin,McLaughlin,1,04/12/2013
+1.00,School,,Madison,Land,1,04/12/2013
+1.00,School,,Leighanne,Tucker,1,04/12/2013
+1.25,School,,Madison,Eaves,1,04/12/2013
+1.00,School,,Haley,Johns,1,04/12/2013
+1.25,School,,Ellie,Henry,1,04/12/2013
+3.50,School,,Ashlyn,York,1,04/15/2013
+1.50,School,,Ellen,Stone,1,04/15/2013
+1.50,School,,Brandt,McGregor,1,04/15/2013
+1.25,School,,Rob,Wolfe,1,04/15/2013
+1.50,School,,Julia,Kimsey,1,04/15/2013
+3.50,School,,Ashlyn,York,1,04/16/2013
+1.25,School,,Erin,McLaughlin,1,04/16/2013
+1.25,School,,Madison,Land,1,04/16/2013
+1.00,School,,Leighanne,Tucker,1,04/16/2013
+1.25,School,,Madison,Eaves,1,04/16/2013
+1.00,School,,Haley,Johns,1,04/16/2013
+1.25,School,,Ellie,Henry,1,04/16/2013
+1.00,School,,Mary,Sabourin,1,04/17/2013
+1.00,School,,Brandt,McGregor,1,04/17/2013
+0.75,School,,Hannah,Jernigan,1,04/17/2013
+0.75,School,,Julia,Kimsey,1,04/17/2013
+0.75,School,,Erin,McLaughlin,1,04/18/2013
+1.50,School,,Madison,Land,1,04/18/2013
+0.75,School,,Madison,Eaves,1,04/18/2013
+0.75,School,,Haley,Johns,1,04/18/2013
+0.75,School,,Ellie,Henry,1,04/18/2013
+1.50,School,,Mary,Sabourin,1,04/19/2013
+1.50,School,,Leighanne,Tucker,1,04/19/2013
+1.50,School,,Kruesi,Brock,1,04/19/2013
+1.50,School,,Ellen,Stone,1,04/19/2013
+1.50,School,,Brandt,McGregor,1,04/19/2013
+1.25,School,,Hannah,Jernigan,1,04/19/2013
+1.00,School,,Rob,Wolfe,1,04/19/2013
+1.25,School,,Julia,Kimsey,1,04/19/2013
+3.50,School,,Ashlyn,York,1,04/22/2013
+1.50,School,,Akia,Grissom,1,04/22/2013
+1.25,School,,Erin,McLaughlin,1,04/22/2013
+1.25,School,,Madison,Land,1,04/22/2013
+1.00,School,,Leighanne,Tucker,1,04/22/2013
+1.00,School,,Madison,Eaves,1,04/22/2013
+1.50,School,,Kruesi,Brock,1,04/22/2013
+1.00,School,,Haley,Johns,1,04/22/2013
+1.25,School,,Hannah,Jernigan,1,04/22/2013
+1.50,School,,Ellie,Henry,1,04/22/2013
+3.50,School,,Ashlyn,York,1,04/23/2013
+1.50,School,,Mary,Sabourin,1,04/23/2013
+1.50,School,,Ellen,Stone,1,04/23/2013
+1.00,School,,Rob,Wolfe,1,04/23/2013
+1.25,School,,Julia,Kimsey,1,04/23/2013
+0.75,School,,Erin,McLaughlin,1,04/24/2013
+0.50,School,,Madison,Land,1,04/24/2013
+0.50,School,,Leighanne,Tucker,1,04/24/2013
+0.75,School,,Madison,Eaves,1,04/24/2013
+1.00,School,,Hannah,Jernigan,1,04/24/2013
+0.75,School,,Ellie,Henry,1,04/24/2013
+2.25,School,,Akia,Grissom,1,04/25/2013
+1.00,School,,Mary,Sabourin,1,04/25/2013
+1.00,School,,Kruesi,Brock,1,04/25/2013
+1.00,School,,Ellen,Stone,1,04/25/2013
+0.50,School,,Rob,Wolfe,1,04/25/2013
+1.00,School,,Julia,Kimsey,1,04/25/2013
+3.50,School,,Ashlyn,York,1,04/29/2013
+1.25,School,,Erin,McLaughlin,1,04/29/2013
+1.00,School,,Madison,Land,1,04/29/2013
+1.00,School,,Leighanne,Tucker,1,04/29/2013
+1.25,School,,Madison,Eaves,1,04/29/2013
+1.00,School,,Haley,Johns,1,04/29/2013
+1.25,School,,Ellie,Henry,1,04/29/2013
+1.50,School,,Mary,Sabourin,1,04/30/2013
+1.00,School,,Kruesi,Brock,1,04/30/2013
+1.50,School,,Ellen,Stone,1,04/30/2013
+1.00,School,,Brandt,McGregor,1,04/30/2013
+1.25,School,,Hannah,Jernigan,1,04/30/2013
+1.00,School,,Rob,Wolfe,1,04/30/2013
+1.25,School,,Julia,Kimsey,1,04/30/2013
+0.75,School,,Erin,McLaughlin,1,05/01/2013
+0.50,School,,Madison,Land,1,05/01/2013
+0.50,School,,Leighanne,Tucker,1,05/01/2013
+0.50,School,,Haley,Johns,1,05/01/2013
+0.75,School,,Ellie,Henry,1,05/01/2013
+1.00,School,,Mary,Sabourin,1,05/02/2013
+1.00,School,,Kruesi,Brock,1,05/02/2013
+1.00,School,,Brandt,McGregor,1,05/02/2013
+1.00,School,,Hannah,Jernigan,1,05/02/2013
+0.50,School,,Rob,Wolfe,1,05/02/2013
+0.75,School,,Julia,Kimsey,1,05/02/2013
+1.75,School,,Akia,Grissom,1,05/06/2013
+0.75,School,,Erin,McLaughlin,1,05/06/2013
+1.00,School,,Madison,Land,1,05/06/2013
+1.25,School,,Leighanne,Tucker,1,05/06/2013
+1.25,School,,Madison,Eaves,1,05/06/2013
+1.00,School,,Haley,Johns,1,05/06/2013
+1.25,School,,Ellie,Henry,1,05/06/2013
+1.00,School,,Mary,Sabourin,1,05/07/2013
+1.50,School,,Kruesi,Brock,1,05/07/2013
+1.50,School,,Brandt,McGregor,1,05/07/2013
+1.50,School,,Hannah,Jernigan,1,05/07/2013
+0.50,School,,Madison,Land,1,05/08/2013
+0.50,School,,Leighanne,Tucker,1,05/08/2013
+1.00,School,,Madison,Eaves,1,05/08/2013
+6.00,School,,Rachele,Petosa,1,05/08/2013
+0.50,School,,Haley,Johns,1,05/08/2013
+1.00,School,,Ellie,Henry,1,05/08/2013
+1.00,School,,Ellen,Stone,1,05/09/2013
+1.00,School,,Brandt,McGregor,1,05/09/2013
+6.00,School,,Rachele,Petosa,1,05/09/2013
+0.75,School,,Rob,Wolfe,1,05/09/2013
+0.75,School,,Julia,Kimsey,1,05/09/2013
+1.25,School,,Erin,McLaughlin,1,05/10/2013
+3.00,School,,Rachele,Petosa,1,05/10/2013
+1.25,School,,Haley,Johns,1,05/10/2013
+1.50,School,,Ellie,Henry,1,05/10/2013
+2.50,School,,Erin,Freeman,1,05/13/2013
+4.00,School,,Erin,Freeman,1,05/14/2013
+3.50,School,,Erin,Freeman,1,05/15/2013
+4.00,School,,Elijah ,Dodds,1,05/28/2013
+3.00,School,,Lekia,Hood,1,05/29/2013
+4.00,School,,Shannon,Carney,1,05/30/2013
+3.00,School,,Lekia,Hood,1,05/31/2013
+3.50,School,,Shannon,Carney,1,06/03/2013
+3.50,School,,Shannon,Carney,1,06/04/2013
+3.50,School,,Shannon,Carney,1,06/06/2013
+3.50,School,,Shannon,Carney,1,06/10/2013
+3.50,School,,Shannon,Carney,1,06/11/2013
+3.00,School,,Lekia,Hood,1,06/12/2013
+3.50,School,,Shannon,Carney,1,06/13/2013
+1.00,School,,Lekia,Hood,1,06/14/2013
+3.50,School,,Shannon,Carney,1,06/17/2013
+3.50,School,,Shannon,Carney,1,06/18/2013
+4.00,School,,Mason,Bishop,1,06/19/2013
+3.50,School,,Shannon,Carney,1,06/20/2013
+4.00,School,,Mason,Bishop,1,06/21/2013
+3.50,School,,Shannon,Carney,1,06/24/2013
+3.50,School,,Shannon,Carney,1,06/25/2013
+4.00,School,,Mason,Bishop,1,06/26/2013
+4.00,School,,Skiye,House,1,06/26/2013
+7.75,School,,Akia,Grissom,0,06/26/2013
+3.50,School,,Virginia,Britto,1,06/27/2013
+4.00,School,,Virginia,Britto,1,06/28/2013
+4.00,School,,Mason,Bishop,1,06/28/2013
+4.00,School,,Virginia,Britto,1,07/01/2013
+4.00,School,,Virginia,Britto,1,07/02/2013
+7.50,School,,Akia,Grissom,1,07/02/2013
+4.00,School,,Mason,Bishop,1,07/03/2013
+4.00,School,,Skiye,House,1,07/03/2013
+3.00,School,,Virginia,Britto,1,07/05/2013
+3.50,School,,Shannon,Carney,1,07/08/2013
+3.50,School,,Shannon,Carney,1,07/09/2013
+4.00,School,,Mason,Bishop,1,07/10/2013
+4.00,School,,Skiye,House,1,07/10/2013
+8.25,School,,Akia,Grissom,1,07/10/2013
+3.00,School,,Virginia,Britto,1,07/11/2013
+3.50,School,,Shannon,Carney,1,07/11/2013
+3.00,School,,Virginia,Britto,1,07/12/2013
+3.50,School,,Shannon,Carney,1,07/15/2013
+3.50,School,,Shannon,Carney,1,07/16/2013
+4.00,School,,Mason,Bishop,1,07/17/2013
+4.00,School,,Skiye,House,1,07/17/2013
+3.50,School,,Shannon,Carney,1,07/22/2013
+3.50,School,,Shannon,Carney,1,07/23/2013
+4.00,School,,Mason,Bishop,1,07/24/2013
+4.25,School,,Skiye,House,1,07/24/2013
+8.75,School,,Akia,Grissom,1,07/24/2013
+3.50,School,,Shannon,Carney,1,07/25/2013
+3.50,School,,Shannon,Carney,1,07/29/2013
+3.50,School,,Shannon,Carney,1,07/30/2013
+8.25,School,,Skiye,House,1,07/31/2013
+8.25,School,,Akia,Grissom,1,07/31/2013
+3.50,School,,Shannon,Carney,1,08/01/2013
+2.00,School,,Alexandra,Lutgen,1,08/02/2013
+2.00,School,,Alexandra,Lutgen,1,08/05/2013
+2.00,School,,Alexandra,Lutgen,1,08/09/2013
+0.75,School,,Allie,Dearing,1,09/11/2013
+2.00,School,,Leah,Eddy,1,09/13/2013
+1.25,School,,Maya,Knight,1,09/16/2013
+1.25,School,,Sarah,Varnes,1,09/16/2013
+1.25,School,,Lauren,Robinson,1,09/16/2013
+0.75,School,,Megan,Adkins,1,09/16/2013
+0.75,School,,Alex,Burney,1,09/16/2013
+0.75,School,,Shakayla,Dews,1,09/16/2013
+0.75,School,,Austin,Nelson,1,09/16/2013
+2.00,School,,Leah,Eddy,1,09/17/2013
+1.00,School,,Anna Lee,Goocher,1,09/17/2013
+1.00,School,,Anna,Alston,1,09/17/2013
+0.75,School,,Maya,Knight,1,09/18/2013
+1.00,School,,Sarah,Varnes,1,09/18/2013
+0.75,School,,Lauren,Robinson,1,09/18/2013
+4.00,School,,Teresa,Harris,1,09/18/2013
+2.00,School,,Leah,Eddy,1,09/19/2013
+0.75,School,,Anna Lee,Goocher,1,09/19/2013
+0.75,School,,Anna,Alston,1,09/19/2013
+1.25,School,,Maya,Knight,1,09/20/2013
+1.25,School,,Sarah,Varnes,1,09/20/2013
+1.25,School,,Lauren,Robinson,1,09/20/2013
+1.25,School,,Anna Lee,Goocher,1,09/23/2013
+1.25,School,,Anna,Alston,1,09/23/2013
+0.75,School,,Courtney,Boyd,1,09/23/2013
+0.75,School,,Virginia,Britto,1,09/23/2013
+0.75,School,,Christian,Colvard,1,09/23/2013
+0.75,School,,Haylee,Conerly,1,09/23/2013
+0.75,School,,Keely,Dunavin,1,09/23/2013
+0.75,School,,Shane,Etherton,1,09/23/2013
+2.00,School,,Leah,Eddy,1,09/24/2013
+1.25,School,,Maya,Knight,1,09/24/2013
+1.25,School,,Sarah,Varnes,1,09/24/2013
+1.25,School,,Lauren,Robinson,1,09/24/2013
+0.75,School,,Anna Lee,Goocher,1,09/25/2013
+0.75,School,,Anna,Alston,1,09/25/2013
+2.00,School,,Leah,Eddy,1,09/26/2013
+0.75,School,,Maya,Knight,1,09/26/2013
+0.75,School,,Sarah,Varnes,1,09/26/2013
+0.75,School,,Lauren,Robinson,1,09/26/2013
+1.25,School,,Anna Lee,Goocher,1,09/27/2013
+1.25,School,,Anna,Alston,1,09/27/2013
+1.25,School,,Maya,Knight,1,09/30/2013
+1.25,School,,Sarah,Varnes,1,09/30/2013
+1.25,School,,Lauren,Robinson,1,09/30/2013
+2.00,School,,Leah,Eddy,1,10/01/2013
+1.00,School,,Anna,Alston,1,10/01/2013
+0.75,School,,Maya,Knight,1,10/02/2013
+1.00,School,,Sarah,Varnes,1,10/02/2013
+0.75,School,,Lauren,Robinson,1,10/02/2013
+4.00,School,,Teresa,Harris,1,10/02/2013
+2.00,School,,Leah,Eddy,1,10/03/2013
+0.75,School,,Anna Lee,Goocher,1,10/03/2013
+0.75,School,,Anna,Alston,1,10/03/2013
+1.25,School,,Maya,Knight,1,10/04/2013
+1.25,School,,Sarah,Varnes,1,10/04/2013
+1.25,School,,Lauren,Robinson,1,10/04/2013
+0.75,School,,Megan,Adkins,1,10/04/2013
+0.75,School,,Alex,Burney,1,10/04/2013
+0.75,School,,Allie,Dearing,1,10/04/2013
+0.75,School,,Shakayla,Dews,1,10/04/2013
+0.75,School,,Austin,Nelson,1,10/04/2013
+1.00,School,,Anna Lee,Goocher,1,10/07/2013
+1.00,School,,Anna,Alston,1,10/07/2013
+2.00,School,,Leah,Eddy,1,10/08/2013
+1.00,School,,Maya,Knight,1,10/08/2013
+1.00,School,,Sarah,Varnes,1,10/08/2013
+1.00,School,,Lauren,Robinson,1,10/08/2013
+1.00,School,,Anna Lee,Goocher,1,10/09/2013
+0.75,School,,Anna,Alston,1,10/09/2013
+4.00,School,,Teresa,Harris,1,10/09/2013
+2.00,School,,Leah,Eddy,1,10/10/2013
+0.75,School,,Maya,Knight,1,10/10/2013
+0.75,School,,Sarah,Varnes,1,10/10/2013
+0.75,School,,Lauren,Robinson,1,10/10/2013
+1.25,School,,Maya,Knight,1,10/14/2013
+1.25,School,,Sarah,Varnes,1,10/14/2013
+1.25,School,,Lauren,Robinson,1,10/14/2013
+2.00,School,,Leah,Eddy,1,10/15/2013
+0.75,School,,Anna Lee,Goocher,1,10/15/2013
+1.00,School,,Anna,Alston,1,10/15/2013
+0.75,School,,Maya,Knight,1,10/16/2013
+0.75,School,,Sarah,Varnes,1,10/16/2013
+0.75,School,,Lauren,Robinson,1,10/16/2013
+5.00,School,,Brooke,Moore,1,10/21/2013
+2.00,School,,Leah,Eddy,1,10/22/2013
+4.50,School,,Brooke,Moore,1,10/22/2013
+5.00,School,,Brooke,Moore,1,10/23/2013
+0.75,School,,Anna,Alston,1,10/23/2013
+2.00,School,,Leah,Eddy,1,10/24/2013
+5.00,School,,Brooke,Moore,1,10/24/2013
+0.75,School,,Maya,Knight,1,10/24/2013
+0.75,School,,Sarah,Varnes,1,10/24/2013
+0.75,School,,Lauren,Robinson,1,10/24/2013
+1.25,School,,Anna Lee,Goocher,1,10/25/2013
+1.25,School,,Anna,Alston,1,10/25/2013
+1.25,School,,Maya,Knight,1,10/28/2013
+1.25,School,,Sarah,Varnes,1,10/28/2013
+1.25,School,,Lauren,Robinson,1,10/28/2013
+2.00,School,,Leah,Eddy,1,10/29/2013
+1.25,School,,Anna Lee,Goocher,1,10/29/2013
+1.25,School,,Anna,Alston,1,10/29/2013
+0.75,School,,Maya,Knight,1,10/30/2013
+1.00,School,,Sarah,Varnes,1,10/30/2013
+0.75,School,,Lauren,Robinson,1,10/30/2013
+0.75,School,,Alex,Burney,1,10/30/2013
+0.75,School,,Allie,Dearing,1,10/30/2013
+0.75,School,,Shakayla,Dews,1,10/30/2013
+2.00,School,,Leah,Eddy,1,10/31/2013
+1.25,School,,Anna,Alston,1,11/04/2013
+2.00,School,,Leah,Eddy,1,11/05/2013
+1.25,School,,Maya,Knight,1,11/05/2013
+1.25,School,,Sarah,Varnes,1,11/05/2013
+0.75,School,,Anna,Alston,1,11/06/2013
+0.75,School,,Maya,Knight,1,11/07/2013
+0.75,School,,Sarah,Varnes,1,11/07/2013
+0.75,School,,Lauren,Robinson,1,11/07/2013
+1.25,School,,Anna Lee,Goocher,1,11/08/2013
+1.25,School,,Anna,Alston,1,11/08/2013
+0.75,School,,Courtney,Boyd,1,11/08/2013
+0.75,School,,Virginia,Britto,1,11/08/2013
+0.75,School,,Christian,Colvard,1,11/08/2013
+0.75,School,,Haylee,Conerly,1,11/08/2013
+0.75,School,,Keely,Dunavin,1,11/08/2013
+0.75,School,,Shane,Etherton,1,11/08/2013
+1.25,School,,Maya,Knight,1,11/11/2013
+1.25,School,,Sarah,Varnes,1,11/11/2013
+1.25,School,,Lauren,Robinson,1,11/11/2013
+1.25,School,,Anna Lee,Goocher,1,11/12/2013
+1.25,School,,Anna,Alston,1,11/12/2013
+0.75,School,,Maya,Knight,1,11/13/2013
+1.00,School,,Sarah,Varnes,1,11/13/2013
+0.75,School,,Lauren,Robinson,1,11/13/2013
+0.75,School,,Anna Lee,Goocher,1,11/14/2013
+0.75,School,,Anna,Alston,1,11/14/2013
+3.00,School,,Toneyshea,Davis,1,11/14/2013
+1.25,School,,Maya,Knight,1,11/15/2013
+1.25,School,,Maya,Knight,1,11/15/2013
+1.25,School,,Sarah,Varnes,1,11/15/2013
+1.25,School,,Lauren,Robinson,1,11/15/2013
+2.00,School,,Toneyshea,Davis,1,11/15/2013
+1.25,School,,Anna Lee,Goocher,1,11/18/2013
+1.25,School,,Anna,Alston,1,11/18/2013
+1.25,School,,Maya,Knight,1,11/19/2013
+1.25,School,,Sarah,Varnes,1,11/19/2013
+1.25,School,,Lauren,Robinson,1,11/19/2013
+0.75,School,,Anna Lee,Goocher,1,11/20/2013
+0.75,School,,Anna,Alston,1,11/20/2013
+0.75,School,,Maya,Knight,1,11/21/2013
+0.75,School,,Sarah,Varnes,1,11/21/2013
+0.75,School,,Lauren,Robinson,1,11/21/2013
+1.25,School,,Anna,Alston,1,11/22/2013
+0.75,School,,Megan,Adkins,1,11/22/2013
+0.75,School,,Alex,Burney,1,11/22/2013
+0.75,School,,Allie,Dearing,1,11/22/2013
+0.75,School,,Shakayla,Dews,1,11/22/2013
+0.75,School,,Austin,Nelson,1,11/22/2013
+1.25,School,,Maya,Knight,1,11/25/2013
+1.25,School,,Sarah,Varnes,1,11/25/2013
+1.25,School,,Lauren,Robinson,1,11/25/2013
+1.25,School,,Anna Lee,Goocher,1,11/26/2013
+1.25,School,,Anna,Alston,1,11/26/2013
+1.25,School,,Lauren,Robinson,1,12/02/2013
+1.25,School,,Maya,Knight,1,12/02/2013
+1.25,School,,Sarah,Varnes,1,12/02/2013
+0.75,School,,Lauren,Robinson,1,12/04/2013
+0.75,School,,Maya,Knight,1,12/04/2013
+0.75,School,,Sarah,Varnes,1,12/04/2013
+0.75,School,,Anna Lee,Goocher,1,12/05/2013
+1.25,School,,Lauren,Robinson,1,12/06/2013
+1.25,School,,Maya,Knight,1,12/06/2013
+1.25,School,,Sarah,Varnes,1,12/06/2013
+0.75,School,,Anna Lee,Goocher,1,12/11/2013
+0.75,School,,Anna,Alston,1,12/11/2013
+0.75,School,,Lauren,Robinson,1,12/12/2013
+0.75,School,,Maya,Knight,1,12/12/2013
+0.75,School,,Sarah,Varnes,1,12/12/2013
+1.25,School,,Anna Lee,Goocher,1,12/13/2013
+1.25,School,,Anna,Alston,1,12/13/2013
+6.00,School,,Anna Lee,Goocher,1,12/19/2013

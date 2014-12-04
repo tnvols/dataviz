@@ -1,0 +1,85 @@
+
+
+label as remove if they take themselves off a move > 48 hours before move date and time. (No Monetary Penalty, but after 5 removals, your account is deactivated)
+label as decommit if they remove themselves < 48 hours and > 12 hours before move date and time. ($10 if you decommit, and after 3 decommits, your account is deactivated)
+lanel as no-show if they don't show up (Their account is automatically deactivated and card is charged $10)
+
+
+2014 ACCOUNTING FOR NATHAN SEXTON
+
+
+Total Verifed Moves Worked: 45 (20 as Captain, 25 as Wingman)
+Average Claim Time of Jobs Worked: 3.5 hours
+Number of Removals: 0
+Number of Decommits: 1 (if you decommit two more times, your account 
+						will be deactivated)
+Penalties Paid: $10
+
+REFERRALS
+($1 everytime your referral works a move.
+Goes up to $2 a move if you AND your referral have both worked more than 20 moves)
+
+Friends Referred:      Initial Referral Bonus       Verified Moves:        Pay Per Move:         Total Payments Per Referral
+
+Nathan Sexton                   $5                        10                   $1                          $15
+Patt Matterson                  $5                        30                   $2 (first 20 paid at $1)    $45
+
+
+Total Referral Bonuses: $60																					 
+
+
+JOB HISTORY:
+(drop down for them to select month)
+
+SEPTEMBER:
+
+	Move Date: 9/1/2014 09:00 AM
+	Customer: John Smith
+	Order: ord_xxxxxxx1
+	Job Status: Verified
+	Role: Wingman
+	Truck Move?: NO
+	Hourly Payout Rate: $16 (claimed at earliest time slot)
+	Verified Labor Hours: 2 hours
+	Payment Details:
+	    Labor Pay: $ 32
+	    Bonus Pay: $ 10
+	    Total Pay: $ 42
+	Payment Status: Paid (If you hover over it, it says "It may take a few days for 
+						  this payment to be deposited into your account")
+
+
+	Move Date: 9/14/2014 08:00 AM
+	Customer: Jerry Garcia
+	Order: ord_xxxxxxx2
+	Job Status: NEEDS REVIEW --> click here to enter your clock in/out time. 
+	Role: Captain
+	Truck Move?: YES
+	Hourly Payout Rate: $17.50 (claimed at 2nd earliest time slot)
+	Verified Labor Hours: -
+	Payment Details: 
+	Payment Status: Payments Not Created
+
+
+
+	Move Date: 9/19/2014 04:00 PM
+	Customer: Joe Thomas
+	Order: ord_xxxxxxx3:
+	Job Status: finished- Hasn't Been Verified -(If you hover over this, it says "The customer has 72 hours to verify the 
+	Role: Captain                                clock in/out times you submitted. If the customer doesn't verify in 72 hours,
+	Truck Move?: NO								 we will assume your times are correct.") 											
+	Role: Captain
+	Truck Move?: NO
+	Hourly Payout Rate: $17.50 (claimed at 2nd earliest time slot)
+	Verified Labor Hours: -
+	Payment Details: 
+	Payment Status: Payments Not Created
+
+Average Claim Time for September: 12 hours 10 minutes
+
+AVERAGE CLAIM TIME BONUS FOR SEPTEMBER: Not Eligible (put a "?" by this so when you click it, a pop
+													  up says, "You have to have an average claim time of < 2 hours
+													  and at least 5 verified moves to be eligible for a $50 bonus)
+
+TOTAL VERIFIED PAY FOR SEPTEMBER: $42.00
+

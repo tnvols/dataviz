@@ -1,0 +1,15 @@
+First Name,Last Name,Email,Enabled,Start Time (GMT+0),End Time (GMT+0),Completed Chats,Dropped Chats,Missed Chats,Visitor Initiated,Agent Initiated,Trigger Initiated,Visitor Initiated (Completed),Agent Initiated (Completed),Trigger Initiated (Completed),Visitor Initiated (Dropped),Agent Initiated (Dropped),Trigger Initiated (Dropped),Visitor Initiated (Missed),Agent Initiated (Missed),Trigger Initiated (Missed),Unresponsive Chats,Agent Initiated (Unresponsive),Trigger Initiated (Unresponsive),Average of First Response Time (sec),Maximum of First Response Time (sec),Minimum of First Response Time (sec),Average Chat Duration (sec),Maximum Chat Duration (sec),Minimum Chat Duration (sec),Maximum of Average Response Time (sec),Average Response Time (sec),Minimum of Average Response Time (sec)
+Matt G.,Graves,dingding+graves@getbellhops.com,True,2014-12-01T05:00:00,2014-12-04T05:00:00,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,106.0,106.0,106.0,106.0,106.0,106.0,106.0,106.0,106.0
+Olivia,Moye,dingding+olivia@getbellhops.com,True,2014-12-01T05:00:00,2014-12-04T05:00:00,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,39.0,39.0,39.0,211.0,211.0,211.0,47.0,47.0,47.0
+Aaron,Edmonson,dingding+aaron@getbellhops.com,True,2014-12-01T05:00:00,2014-12-04T05:00:00,2,1,0,3,0,0,2,0,0,1,0,0,0,0,0,0,0,0,43.33,46.0,39.0,492.67,753.0,93.0,73.0,52.33,33.0
+Nathan,Sexton,nathan.sexton@getbellhops.com,True,2014-12-01T05:00:00,2014-12-04T05:00:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Amber,Stacey,dingding+amber@getbellhops.com,True,2014-12-01T05:00:00,2014-12-04T05:00:00,3,0,0,3,0,0,3,0,0,0,0,0,0,0,0,0,0,0,121.0,299.0,23.0,546.0,741.0,299.0,299.0,124.33,34.0
+Joseph,Doughty,dingding+joey@getbellhops.com,True,2014-12-01T05:00:00,2014-12-04T05:00:00,2,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,22.5,38.0,7.0,341.0,342.0,340.0,22.0,22.0,22.0
+Charles,Marczynski,dingding+charlie@getbellhops.com,True,2014-12-01T05:00:00,2014-12-04T05:00:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brent,Gauthier,dingding+bj@getbellhops.com,True,2014-12-01T05:00:00,2014-12-04T05:00:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Jacob ,Ellis,dingding+jacob@getbellhops.com,True,2014-12-01T05:00:00,2014-12-04T05:00:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tisha,Blankenship,dingding+tisha@getbellhops.com,True,2014-12-01T05:00:00,2014-12-04T05:00:00,2,1,0,3,0,0,2,0,0,1,0,0,0,0,0,0,0,0,56.33,76.0,36.0,302.67,463.0,214.0,58.0,39.67,30.0
+Justin,Smith,dingding+justin@getbellhops.com,True,2014-12-01T05:00:00,2014-12-04T05:00:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Stacy ,Scerini,dingding+stacy@getbellhops.com,True,2014-12-01T05:00:00,2014-12-04T05:00:00,2,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,295.5,554.0,37.0,1174.5,2120.0,229.0,304.0,181.0,58.0
+Matt A.,Averyhart,dingding+matt.averyhart@getbellhops.com,True,2014-12-01T05:00:00,2014-12-04T05:00:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Matt,Intemann,dingding+matt@getbellhops.com,True,2014-12-01T05:00:00,2014-12-04T05:00:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
