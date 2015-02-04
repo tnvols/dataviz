@@ -5,12 +5,12 @@ import csv
 import p1_parse as p
 from bookedmoves import BELLHOP_ORDER
 
-BELLHOP_PROFILES = "../data/2014_10_15_2336_bellhops_export.csv"
+#BELLHOP_PROFILES = "../data/2014_10_15_2336_bellhops_export.csv"
 
 order_file = p.parse(BELLHOP_ORDER, ",")
-bellhops_file = p.parse(BELLHOP_PROFILES, ',')
-begin_date = "2014-08-15"
-end_date = "2014-10-28"
+#bellhops_file = p.parse(BELLHOP_PROFILES, ',')
+begin_date = "2014-01-01"
+end_date = "2014-12-02"
 
 
 def movers_in_cities(market_input):
@@ -101,7 +101,7 @@ def market_moves(market_input):
 	external_moves = float(external_counter[True])
 	total_moves = int(verified_moves + external_moves)
 
-	print "%d" % (total_moves)
+	print "%s %d" % (market_input, total_moves)
 	#print "Household: %.2f" % verified_moves
 	#print "Externally Billed: %.2f" % external_moves
 	#print "Total Moves: %.2f" % total_moves
@@ -135,10 +135,11 @@ def market_list():
 	
 
 def main():
-	market_list()
+	#market_list()
 	#hop_market_data("Austin, TX")
 	#hop_market_data("Auburn, AL")
 	#hop_market_data("Athens, GA")
+	market_moves('Atlanta, GA')
 
 if __name__ == "__main__":
 	main()

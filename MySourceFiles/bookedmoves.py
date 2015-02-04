@@ -1,12 +1,12 @@
 
 from collections import Counter
 
-import csv
 import matplotlib.pyplot as plt
 import numpy as na
 import p1_parse as p
 
-BELLHOP_ORDER = "../data/2014_12_01_1313_bellhops_order_export.csv"
+BELLHOP_ORDER = "../data/2014_12_15_1316_bellhops_order_export.csv"
+
 
 def autolabel(rects):
     # attach some text labels
@@ -17,6 +17,7 @@ def autolabel(rects):
 
 def booked_moves_by_csr():
 	order_file = p.parse(BELLHOP_ORDER, ",")
+	print order_file
 	begin_date = raw_input("Start date: ")
 	end_date = raw_input("End date: ")
 

@@ -42,7 +42,7 @@ def two_movers(market_input):
 			for i in wing_list:
 				unique_hops.append(i)
 	for i in unique_hops:
-		if unique_hops.count(i) >= 4:
+		if unique_hops.count(i) >= 0:
 			three.add(i)
 	num_worked_three = len(three)
 	orgs_list = []
@@ -69,7 +69,7 @@ def two_movers(market_input):
 	for i in email:
 		for bellhop in bellhops_file:
 			if i == bellhop['user__email']:
-				print market_input, bellhop['user__first_name'], bellhop['user__last_name'], bellhop['phone'], bellhop['user__email'], unique_hops.count(i)
+				print market_input + ",", bellhop['user__first_name'] + ",", bellhop['user__last_name'] + ",", bellhop['phone'] + ",", bellhop['user__email'] + ",", bellhop['major'] + ",", unique_hops.count(i)
 
 
 

@@ -1,13 +1,15 @@
 from collections import Counter
-import csv
-import numpy as np
+
 import p1_parse as p
+import locale
 from bookedmoves import BELLHOP_ORDER
 
 order_file = p.parse(BELLHOP_ORDER, ",")
 begin_date = "2014-01-01"
-end_date = "2014-10-15"
+end_date = "2014-12-03"
 #market_input = raw_input("Market(ex. Chattanooga, TN): ")
+
+locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
 
 
 def market_rev(market_input):
@@ -36,7 +38,20 @@ def market_rev(market_input):
 	total_rev = hh_rev + ext_rev
 	director_rev = (total_rev * .01)
 
-	print "%s %.2f %.2f %.2f %.2f %.2f" % (market_input, total_moves, hh_rev, ext_rev, total_rev, director_rev)
+	#print "%s %.2f %.2f %.2f %.2f %.2f" % (market_input, total_moves, hh_rev, ext_rev, total_rev, director_rev)
+
+	print "-----------" *10
+	print "MOVE & REVENUE DATA FOR %s FROM %s to %s" % (market_input, begin_date, end_date)
+	print "-----------" *10
+	print "Number of Household Moves: %.2f" % verified_moves
+	print "Number of Commercial Moves: %.2f" % external_moves
+	print "Total Number of Moves: %.2f" % total_moves
+	print "-----------" *2
+	print "Household Revenue: " + locale.currency(hh_rev, grouping=True)
+	print "Commercial Revenue: " + locale.currency(ext_rev, grouping=True)
+	print "Total Revenue: " + locale.currency(total_rev, grouping=True)
+	print "Total Estimated Director Payout: " + locale.currency(director_rev, grouping=True)
+
 
 def market_rev_totals():
 	household = []
@@ -56,7 +71,7 @@ def market_rev_totals():
 		    and item['remaining_balance'] != '' and item['remaining_balance'] >'0'):
 			external.append(float(item['total_payouts_to_bellhops']) * 2.14)
 
-	 	
+	total_moves = verified_moves + external_moves 	
 	hh_rev = sum(household)
 	ext_rev = sum(external)
 	total_rev = hh_rev + ext_rev
@@ -74,6 +89,7 @@ def market_rev_totals():
 	print "Total Revenue: %.2f" % total_rev
 	print "Total Estimated Director Payout: %.2f" % director_rev
 
+
 def market_list():
 	mkts = set()
 	for item in order_file:
@@ -81,6 +97,7 @@ def market_list():
 	mark = sorted(mkts)
 	for market in mark:
 		market_rev(market)
+
 
 def total_rev():
 	household = []
@@ -100,7 +117,6 @@ def total_rev():
 			household.append(float(item['total_paid_by_customer']))
 
 
-	total_moves = verified_moves
 	phone = phone_moves
 	hh_rev = sum(household)
 	phone_rev = sum(phone_order)
@@ -117,9 +133,9 @@ def total_rev():
 
 
 def main():
-	market_list()
+	#market_list()
 	#total_rev()
-	#market_rev_totals()
+	market_rev_totals()
  	
 if __name__ == "__main__":
 	main()
